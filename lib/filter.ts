@@ -14,13 +14,24 @@ export interface ViewportBounds {
   maxLat: number;
 }
 
+function normalizeJP(str: string): string {
+  return str
+    .normalize("NFKC")
+    .replace(/[ぁ-ゖ]/g, (c) =>
+      String.fromCharCode(c.charCodeAt(0) + 0x60),
+    )
+    .toLowerCase();
+}
+
 export function filterShops(shops: Shop[], input: FilterInput): Shop[] {
-  const q = input.query.trim().toLowerCase();
+  const q = normalizeJP(input.query.trim());
   return shops.filter((s) => {
     if (!input.showClosed && s.status === "closed") return false;
     if (input.genres.size > 0 && !input.genres.has(s.genre)) return false;
     if (q.length > 0) {
-      const hay = `${s.name} ${s.prefectureJa} ${s.city} ${s.signature} ${s.genreJa}`.toLowerCase();
+      const hay = normalizeJP(
+        `${s.name} ${s.prefectureJa} ${s.city} ${s.signature} ${s.genreJa}`,
+      );
       if (!hay.includes(q)) return false;
     }
     if (input.viewportBounds) {
