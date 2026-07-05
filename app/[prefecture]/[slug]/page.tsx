@@ -27,10 +27,19 @@ export async function generateMetadata({
   const shop = getShopBySlug(prefecture, slug);
   if (!shop) return {};
   const title = `${shop.name}|オモウマい店で紹介された${shop.prefectureJa}${shop.city}の店`;
+  const description = `${shop.name}(${shop.prefectureJa}${shop.city})の名物は「${shop.signature}」。放送日・営業ステータス・地図・アクセス方法をまとめました。`;
   return {
     title,
-    description: `${shop.name}(${shop.prefectureJa}${shop.city})の名物は「${shop.signature}」。放送日・営業ステータス・地図・アクセス方法をまとめました。`,
-    openGraph: { title },
+    description,
+    openGraph: {
+      title,
+      description,
+      url: `/${prefecture}/${slug}/`,
+      type: "article",
+    },
+    alternates: {
+      canonical: `/${prefecture}/${slug}/`,
+    },
   };
 }
 

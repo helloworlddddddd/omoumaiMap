@@ -24,10 +24,19 @@ export async function generateMetadata({
   if (shops.length === 0) return {};
   const prefectureJa = shops[0].prefectureJa;
   const title = `オモウマい店 ${prefectureJa}|紹介された店一覧マップ`;
+  const description = `${prefectureJa}でテレビ番組に紹介された飲食店${shops.length}件を地図と一覧で紹介。営業ステータスやジャンル、放送日で絞り込みできます。`;
   return {
     title,
-    description: `${prefectureJa}でテレビ番組に紹介された飲食店${shops.length}件を地図と一覧で紹介。営業ステータスやジャンル、放送日で絞り込みできます。`,
-    openGraph: { title },
+    description,
+    openGraph: {
+      title,
+      description,
+      url: `/${prefecture}/`,
+      type: "website",
+    },
+    alternates: {
+      canonical: `/${prefecture}/`,
+    },
   };
 }
 

@@ -7,6 +7,16 @@ export const metadata: Metadata = {
   title: "オモウマい店マップ|紹介された飲食店を地図と一覧で探す",
   description:
     "テレビ番組で紹介された飲食店を、都道府県・ジャンル・営業ステータスから地図と一覧で探せます。",
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "オモウマい店マップ|紹介された飲食店を地図と一覧で探す",
+    description:
+      "テレビ番組で紹介された飲食店を、都道府県・ジャンル・営業ステータスから地図と一覧で探せます。",
+    url: "/",
+    type: "website",
+  },
 };
 
 export default function HomePage() {

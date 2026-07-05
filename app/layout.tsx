@@ -8,13 +8,25 @@ const notoSansJp = Noto_Sans_JP({
   weight: ["400", "500", "700"],
 });
 
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://omoumai-map.vercel.app";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "オモウマい店マップ",
     template: "%s|オモウマい店マップ",
   },
   description:
     "テレビ番組で紹介された飲食店を、都道府県・ジャンル・営業ステータスから地図と一覧で探せます。",
+  openGraph: {
+    siteName: "オモウマい店マップ",
+    locale: "ja_JP",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+  },
 };
 
 export default function RootLayout({
