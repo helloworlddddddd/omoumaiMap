@@ -17,10 +17,10 @@ export function RelatedShops({
       </h2>
       <ul className="mt-3 divide-y divide-gray-100">
         {shops.map((s) => (
-          <li key={s.slug} className="py-2">
+          <li key={s.slug}>
             <Link
               href={`/${s.prefecture}/${s.slug}/`}
-              className="flex items-start justify-between gap-2 hover:text-orange-700"
+              className="flex items-center justify-between gap-2 min-h-[44px] py-1 hover:text-orange-700"
             >
               <div className="min-w-0">
                 <div className="text-sm font-semibold text-gray-900 truncate">

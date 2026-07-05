@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Noto_Sans_JP } from "next/font/google";
 import "./globals.css";
 
@@ -10,6 +10,12 @@ const notoSansJp = Noto_Sans_JP({
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL ?? "https://omoumai-map.vercel.app";
+
+export const viewport: Viewport = {
+  themeColor: "#f97316",
+  width: "device-width",
+  initialScale: 1,
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -40,7 +46,10 @@ export default function RootLayout({
       className={`${notoSansJp.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-orange-50/40 text-gray-900">
-        {children}
+        <a href="#main-content" className="skip-link">
+          メインコンテンツへスキップ
+        </a>
+        <div id="main-content">{children}</div>
       </body>
     </html>
   );

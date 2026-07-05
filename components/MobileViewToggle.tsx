@@ -11,7 +11,7 @@ export function MobileViewToggle() {
         onClick={() => setMobileView("map")}
         aria-pressed={mobileView === "map"}
         className={
-          "h-9 px-4 rounded-full text-sm font-medium transition-colors " +
+          "h-11 px-5 rounded-full text-sm font-medium transition-colors " +
           (mobileView === "map" ? "bg-orange-500 text-white" : "text-gray-700")
         }
       >
@@ -22,7 +22,7 @@ export function MobileViewToggle() {
         onClick={() => setMobileView("list")}
         aria-pressed={mobileView === "list"}
         className={
-          "h-9 px-4 rounded-full text-sm font-medium transition-colors " +
+          "h-11 px-5 rounded-full text-sm font-medium transition-colors " +
           (mobileView === "list" ? "bg-orange-500 text-white" : "text-gray-700")
         }
       >

@@ -127,7 +127,7 @@ export default function ShopMap({
                 onMouseEnter={() => setHoveredSlug(s.slug)}
                 onMouseLeave={() => setHoveredSlug(null)}
                 style={{ transform: `scale(${scale})`, transformOrigin: "50% 100%" }}
-                className="transition-transform duration-150 drop-shadow"
+                className="p-2 -m-2 transition-transform duration-150 drop-shadow"
               >
                 <PinSvg fill={style.hex} stroke={style.strokeHex} emphasized={isSelected} />
               </button>

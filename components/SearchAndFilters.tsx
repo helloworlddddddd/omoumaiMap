@@ -55,7 +55,7 @@ export function SearchAndFilters() {
                 type="button"
                 onClick={() => toggleGenre(g.key)}
                 className={
-                  "shrink-0 h-8 px-3 rounded-full text-sm border transition-colors " +
+                  "shrink-0 h-11 px-4 rounded-full text-sm border transition-colors " +
                   (active
                     ? "bg-orange-500 text-white border-orange-500"
                     : "bg-white text-gray-700 border-gray-200 hover:border-orange-300")
@@ -67,7 +67,7 @@ export function SearchAndFilters() {
             );
           })}
 
-          <label className="ml-auto shrink-0 inline-flex items-center gap-1.5 text-sm text-gray-700 select-none">
+          <label className="ml-auto shrink-0 inline-flex items-center gap-1.5 min-h-[44px] text-sm text-gray-700 select-none cursor-pointer">
             <input
               type="checkbox"
               checked={showClosed}
