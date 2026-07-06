@@ -10,7 +10,7 @@ const notoSansJp = Noto_Sans_JP({
 });
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://omoumai-map.vercel.app";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://omoumai-map.com";
 
 export const viewport: Viewport = {
   themeColor: "#f97316",

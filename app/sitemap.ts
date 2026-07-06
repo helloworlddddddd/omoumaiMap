@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAllShops, getAllPrefectures } from "@/lib/shops";
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://omoumai-map.vercel.app";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://omoumai-map.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
