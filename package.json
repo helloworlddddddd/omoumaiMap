@@ -10,6 +10,7 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "@fontsource/noto-sans-jp": "^5.2.9",
     "gray-matter": "^4.0.3",
     "maplibre-gl": "^5.24.0",
     "next": "16.2.10",
