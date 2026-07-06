@@ -1,26 +1,51 @@
 import { ImageResponse } from "next/og";
+import fs from "fs";
+import path from "path";
 import { getAllPrefectures, getShopsByPrefecture } from "@/lib/shops";
 
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-// OG画像で使う文字だけのサブセットを取得
-const SUBSET_TEXT =
-  "Mapいウオマモ三井京佐児兵分北千取口和城埼大奈媛宮富山岐岡岩島崎川広店府庫形徳愛手掲数新木本東栃根梨森歌沖海滋潟熊玉田県知石神福秋縄群舗良茨葉賀載道都重野長阜阪青静香馬高鳥鹿";
+const FONT_FILES = [
+  "noto-sans-jp-latin-900-normal.woff",
+  "noto-sans-jp-95-900-normal.woff",
+  "noto-sans-jp-96-900-normal.woff",
+  "noto-sans-jp-97-900-normal.woff",
+  "noto-sans-jp-98-900-normal.woff",
+  "noto-sans-jp-99-900-normal.woff",
+  "noto-sans-jp-100-900-normal.woff",
+  "noto-sans-jp-101-900-normal.woff",
+  "noto-sans-jp-102-900-normal.woff",
+  "noto-sans-jp-103-900-normal.woff",
+  "noto-sans-jp-104-900-normal.woff",
+  "noto-sans-jp-105-900-normal.woff",
+  "noto-sans-jp-106-900-normal.woff",
+  "noto-sans-jp-107-900-normal.woff",
+  "noto-sans-jp-108-900-normal.woff",
+  "noto-sans-jp-109-900-normal.woff",
+  "noto-sans-jp-110-900-normal.woff",
+  "noto-sans-jp-111-900-normal.woff",
+  "noto-sans-jp-112-900-normal.woff",
+  "noto-sans-jp-113-900-normal.woff",
+  "noto-sans-jp-114-900-normal.woff",
+  "noto-sans-jp-115-900-normal.woff",
+  "noto-sans-jp-116-900-normal.woff",
+  "noto-sans-jp-117-900-normal.woff",
+  "noto-sans-jp-118-900-normal.woff",
+  "noto-sans-jp-119-900-normal.woff",
+];
 
-async function loadFont(): Promise<ArrayBuffer> {
-  const url = `https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&text=${encodeURIComponent(SUBSET_TEXT)}`;
-  const css = await fetch(url, {
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    },
-  }).then((r) => r.text());
+const FONT_DIR = path.join(process.cwd(), "public", "fonts", "og");
 
-  const match = css.match(/src: url\((.+?)\) format\('woff2'\)/);
-  if (!match) throw new Error("Font URL not found in CSS");
-  return fetch(match[1]).then((r) => r.arrayBuffer());
-}
+const fonts = FONT_FILES.map((fname) => {
+  const buf = fs.readFileSync(path.join(FONT_DIR, fname));
+  return {
+    name: "NotoSansJP",
+    data: buf.buffer.slice(buf.byteOffset, buf.byteOffset + buf.byteLength) as ArrayBuffer,
+    weight: 900 as const,
+    style: "normal" as const,
+  };
+});
 
 export function generateStaticParams() {
   return getAllPrefectures().map((p) => ({ prefecture: p.key }));
@@ -32,7 +57,7 @@ export default async function OgImage({
   params: Promise<{ prefecture: string }>;
 }) {
   const { prefecture } = await params;
-  const [font, prefectures] = await Promise.all([loadFont(), Promise.resolve(getAllPrefectures())]);
+  const prefectures = getAllPrefectures();
   const pref = prefectures.find((p) => p.key === prefecture);
   const shops = getShopsByPrefecture(prefecture);
 
@@ -67,9 +92,6 @@ export default async function OgImage({
         </div>
       </div>
     ),
-    {
-      ...size,
-      fonts: [{ name: "NotoSansJP", data: font, style: "normal", weight: 900 }],
-    }
+    { ...size, fonts }
   );
 }
