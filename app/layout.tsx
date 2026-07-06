@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Noto_Sans_JP } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 
 const notoSansJp = Noto_Sans_JP({
@@ -45,14 +46,13 @@ export default function RootLayout({
       lang="ja"
       className={`${notoSansJp.variable} h-full antialiased`}
     >
-      <head>
-        <script
+      <body className="min-h-full flex flex-col bg-orange-50/40 text-gray-900">
+        <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3306040727752702"
           crossOrigin="anonymous"
+          strategy="afterInteractive"
         />
-      </head>
-      <body className="min-h-full flex flex-col bg-orange-50/40 text-gray-900">
         <a href="#main-content" className="skip-link">
           メインコンテンツへスキップ
         </a>
