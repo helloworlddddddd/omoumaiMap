@@ -4,6 +4,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 
 import { useCallback, useEffect, useMemo, useRef } from "react";
 import Map, {
+  GeolocateControl,
   Marker,
   NavigationControl,
   Popup,
@@ -104,6 +105,12 @@ export default function ShopMap({
         style={{ width: "100%", height: "100%" }}
       >
         <NavigationControl position="top-right" showCompass={false} />
+        <GeolocateControl
+          position="top-right"
+          positionOptions={{ enableHighAccuracy: true }}
+          trackUserLocation={false}
+          showUserLocation={true}
+        />
 
         {shops.map((s) => {
           const style = getStatusStyle(s.status);
