@@ -1,206 +1,7436 @@
 [
   {
-    "slug": "ramen-nagashima",
-    "name": "らーめん専門ながしま",
-    "prefecture": "saitama",
-    "prefectureJa": "埼玉県",
-    "city": "吉見町",
-    "lat": 36.0396,
-    "lng": 139.4536,
-    "status": "open",
-    "airedDates": ["2024-05-14"],
-    "signature": "元料亭料理人が作る絶品ラーメン",
-    "priceNote": "ラーメン500円",
-    "genre": "ramen",
-    "genreJa": "ラーメン",
-    "address": "埼玉県比企郡吉見町(架空)1-2-3",
-    "note": ""
-  },
-  {
-    "slug": "niku-ohori",
-    "name": "肉のおおほり",
-    "prefecture": "saitama",
-    "prefectureJa": "埼玉県",
-    "city": "川越市",
-    "lat": 35.9251,
-    "lng": 139.4859,
-    "status": "open",
-    "airedDates": ["2023-11-07", "2024-08-20"],
-    "signature": "山盛りステーキ丼",
-    "priceNote": "ステーキ丼1,200円",
-    "genre": "meat",
-    "genreJa": "肉料理",
-    "address": "埼玉県川越市(架空)本町4-5",
-    "note": "行列必至"
-  },
-  {
-    "slug": "teishoku-akiyama",
-    "name": "あきやま定食",
-    "prefecture": "saitama",
-    "prefectureJa": "埼玉県",
-    "city": "熊谷市",
-    "lat": 36.1473,
-    "lng": 139.3886,
-    "status": "closed",
-    "airedDates": ["2022-06-21"],
-    "signature": "3種盛り定食",
-    "priceNote": "定食850円",
-    "genre": "teishoku",
-    "genreJa": "定食",
-    "address": "埼玉県熊谷市(架空)本町2-1",
-    "note": "2024年3月閉店"
-  },
-  {
-    "slug": "soba-tsurukawa",
-    "name": "手打ちそば鶴川",
-    "prefecture": "saitama",
-    "prefectureJa": "埼玉県",
-    "city": "秩父市",
-    "lat": 35.9908,
-    "lng": 139.0854,
-    "status": "moved",
-    "airedDates": ["2023-04-11"],
-    "signature": "十割そば大盛り",
-    "priceNote": "そば900円",
-    "genre": "other",
-    "genreJa": "そば",
-    "address": "埼玉県秩父市(架空)横瀬2-3-4",
-    "note": "2025年隣市へ移転"
-  },
-  {
-    "slug": "ramen-daibutsu",
-    "name": "大仏ラーメン",
+    "slug": "sushiizakaya-ooteru",
+    "name": "すし居酒屋 大照",
     "prefecture": "aichi",
     "prefectureJa": "愛知県",
-    "city": "名古屋市中区",
-    "lat": 35.1682,
-    "lng": 136.9066,
+    "city": "知多郡",
+    "lat": 34.866918,
+    "lng": 136.919828,
     "status": "open",
-    "airedDates": ["2024-02-13"],
-    "signature": "特大チャーシューメン",
-    "priceNote": "特大チャーシューメン1,500円",
-    "genre": "ramen",
-    "genreJa": "ラーメン",
-    "address": "愛知県名古屋市中区(架空)栄5-6",
+    "airedDates": [
+      "2021-06-29"
+    ],
+    "signature": "大盛りすぎる！ネギトロ軍艦や マグロが格安すぎる店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛知県知多郡武豊町石川６８−２",
     "note": ""
   },
   {
-    "slug": "kissa-morning",
-    "name": "喫茶モーニング",
+    "slug": "mikakudou",
+    "name": "みかくどう",
     "prefecture": "aichi",
     "prefectureJa": "愛知県",
-    "city": "名古屋市東区",
-    "lat": 35.1836,
-    "lng": 136.9265,
+    "city": "海部郡",
+    "lat": 35.125116,
+    "lng": 136.792817,
     "status": "open",
-    "airedDates": ["2023-09-05"],
-    "signature": "コーヒー1杯でモーニング食べ放題",
-    "priceNote": "モーニング430円〜",
+    "airedDates": [
+      "2021-09-28"
+    ],
+    "signature": "日本一安いランチの店 日替わりランチ200円",
+    "priceNote": "",
     "genre": "other",
-    "genreJa": "喫茶",
-    "address": "愛知県名古屋市東区(架空)葵1-1",
+    "genreJa": "その他",
+    "address": "愛知県海部郡蟹江町宝１丁目６０１",
     "note": ""
   },
   {
-    "slug": "yaki-niku-taro",
-    "name": "焼肉太郎",
+    "slug": "yattoru",
+    "name": "やっとる？",
+    "prefecture": "aichi",
+    "prefectureJa": "愛知県",
+    "city": "名古屋市",
+    "lat": 35.206632,
+    "lng": 136.918853,
+    "status": "open",
+    "airedDates": [
+      "2021-10-26"
+    ],
+    "signature": "ビューティフル海鮮丼の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛知県名古屋市北区天道町４丁目１８",
+    "note": ""
+  },
+  {
+    "slug": "mentokoro-yoshinoya",
+    "name": "めん処 吉野屋",
+    "prefecture": "aichi",
+    "prefectureJa": "愛知県",
+    "city": "名古屋市",
+    "lat": 35.169358,
+    "lng": 136.918796,
+    "status": "open",
+    "airedDates": [
+      "2022-10-11"
+    ],
+    "signature": "ピッチャーで 食べる３種の麺！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛知県名古屋市中区新栄１丁目６−３ シャインビル １Ｆ",
+    "note": ""
+  },
+  {
+    "slug": "shieshieshibata-chezshibata",
+    "name": "シェ･シバタ(chezshibata)",
+    "prefecture": "aichi",
+    "prefectureJa": "愛知県",
+    "city": "名古屋市",
+    "lat": 35.167433,
+    "lng": 136.952837,
+    "status": "open",
+    "airedDates": [
+      "2023-08-08"
+    ],
+    "signature": "侍パティシエのお店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛知県名古屋市千種区山門町２丁目５４",
+    "note": ""
+  },
+  {
+    "slug": "hyoutan",
+    "name": "ひょうたん",
     "prefecture": "aichi",
     "prefectureJa": "愛知県",
     "city": "岡崎市",
-    "lat": 34.9541,
-    "lng": 137.1739,
+    "lat": 34.957743,
+    "lng": 137.15955,
     "status": "open",
-    "airedDates": ["2024-01-23"],
-    "signature": "1kg焼肉盛り合わせ",
-    "priceNote": "1kg盛り3,980円",
-    "genre": "meat",
-    "genreJa": "焼肉",
-    "address": "愛知県岡崎市(架空)康生通1-2",
+    "airedDates": [
+      "2024-05-21"
+    ],
+    "signature": "(岡崎公園) ジャンボサイズな 花見団子がすごい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛知県岡崎市康生町５６１",
     "note": ""
   },
   {
-    "slug": "teishoku-mifune",
-    "name": "みふね食堂",
+    "slug": "buruuraguunresutoran",
+    "name": "ブルーラグーンレストラン",
     "prefecture": "aichi",
     "prefectureJa": "愛知県",
-    "city": "豊橋市",
-    "lat": 34.7692,
-    "lng": 137.3915,
-    "status": "closed",
-    "airedDates": ["2022-11-08"],
-    "signature": "唐揚げ定食(唐揚げ10個)",
-    "priceNote": "唐揚げ定食780円",
-    "genre": "teishoku",
-    "genreJa": "定食",
-    "address": "愛知県豊橋市(架空)駅前大通2-3",
-    "note": "2023年12月閉店"
-  },
-  {
-    "slug": "okonomi-tetsu",
-    "name": "お好み焼き鉄",
-    "prefecture": "osaka",
-    "prefectureJa": "大阪府",
-    "city": "大阪市中央区",
-    "lat": 34.6798,
-    "lng": 135.5013,
+    "city": "名古屋市",
+    "lat": 35.135153,
+    "lng": 136.980109,
     "status": "open",
-    "airedDates": ["2024-03-19"],
-    "signature": "山盛り豚玉お好み焼き",
-    "priceNote": "豚玉880円",
+    "airedDates": [
+      "2025-02-11"
+    ],
+    "signature": "店内はラッセンのよう⁈",
+    "priceNote": "",
     "genre": "other",
-    "genreJa": "お好み焼き",
-    "address": "大阪府大阪市中央区(架空)道頓堀2-4",
+    "genreJa": "その他",
+    "address": "愛知県名古屋市天白区塩釜口２丁目２０１",
     "note": ""
   },
   {
-    "slug": "ramen-kotobuki",
-    "name": "ラーメンことぶき",
-    "prefecture": "osaka",
-    "prefectureJa": "大阪府",
-    "city": "東大阪市",
-    "lat": 34.6795,
-    "lng": 135.6009,
-    "status": "unknown",
-    "airedDates": ["2023-07-25"],
-    "signature": "野菜山盛り二郎系",
-    "priceNote": "ラーメン780円",
+    "slug": "wafuuraamenmoritaya",
+    "name": "和風らーめん森田屋",
+    "prefecture": "aichi",
+    "prefectureJa": "愛知県",
+    "city": "津島市",
+    "lat": 35.166972,
+    "lng": 136.774898,
+    "status": "open",
+    "airedDates": [
+      "2025-03-04"
+    ],
+    "signature": "ゴンドラで運ぶ店",
+    "priceNote": "",
     "genre": "ramen",
     "genreJa": "ラーメン",
-    "address": "大阪府東大阪市(架空)長田3-5",
-    "note": "営業状況不明"
-  },
-  {
-    "slug": "horumon-daibou",
-    "name": "ホルモン大坊",
-    "prefecture": "osaka",
-    "prefectureJa": "大阪府",
-    "city": "大阪市西成区",
-    "lat": 34.6413,
-    "lng": 135.4894,
-    "status": "open",
-    "airedDates": ["2024-06-04"],
-    "signature": "ホルモン食べ放題1,500円",
-    "priceNote": "食べ放題1,500円",
-    "genre": "meat",
-    "genreJa": "ホルモン",
-    "address": "大阪府大阪市西成区(架空)萩之茶屋1-1",
+    "address": "愛知県津島市莪原町不毛５０",
     "note": ""
   },
   {
-    "slug": "teishoku-tomoko",
-    "name": "ともこ定食",
-    "prefecture": "osaka",
-    "prefectureJa": "大阪府",
-    "city": "堺市堺区",
-    "lat": 34.5732,
-    "lng": 135.4830,
-    "status": "closed",
-    "airedDates": ["2022-05-30"],
-    "signature": "デカ盛り煮魚定食",
-    "priceNote": "定食1,000円",
+    "slug": "sarada",
+    "name": "さらだ",
+    "prefecture": "aichi",
+    "prefectureJa": "愛知県",
+    "city": "一宮市",
+    "lat": 35.288691,
+    "lng": 136.76389,
+    "status": "open",
+    "airedDates": [
+      "2025-11-11"
+    ],
+    "signature": "とんちゃん190円",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛知県一宮市萩原町富田方西の川２−２",
+    "note": ""
+  },
+  {
+    "slug": "suigetsurou",
+    "name": "水月楼",
+    "prefecture": "aichi",
+    "prefectureJa": "愛知県",
+    "city": "名古屋市",
+    "lat": 35.149416,
+    "lng": 136.906456,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "激安ウマ天津麺",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛知県名古屋市中区平和１丁目６−１３",
+    "note": ""
+  },
+  {
+    "slug": "suteekichuubou-benibana",
+    "name": "ステーキ厨房 紅花",
+    "prefecture": "aichi",
+    "prefectureJa": "愛知県",
+    "city": "一宮市",
+    "lat": 35.310663,
+    "lng": 136.739606,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "運試しサービスがある?!",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "愛知県一宮市起河田揚１１",
+    "note": ""
+  },
+  {
+    "slug": "suteekichuubou-benibana-benihana",
+    "name": "ステーキ厨房 紅花(べにはな)",
+    "prefecture": "aichi",
+    "prefectureJa": "愛知県",
+    "city": "一宮市",
+    "lat": 35.310663,
+    "lng": 136.739606,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "愛知県一宮市起河田揚１１",
+    "note": ""
+  },
+  {
+    "slug": "shokujitokoro-kaachan",
+    "name": "食事処 かあちゃん",
+    "prefecture": "akita",
+    "prefectureJa": "秋田県",
+    "city": "能代市",
+    "lat": 40.216312,
+    "lng": 140.171839,
+    "status": "open",
+    "airedDates": [
+      "2022-06-07"
+    ],
+    "signature": "500円定食 超巨大カツ定食",
+    "priceNote": "",
     "genre": "teishoku",
     "genreJa": "定食",
-    "address": "大阪府堺市堺区(架空)戎島町2-1",
-    "note": "2024年6月閉店"
+    "address": "秋田県能代市二ツ井町高清水４８３−１",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-yamanogodai",
+    "name": "お食事処 山の五代",
+    "prefecture": "akita",
+    "prefectureJa": "秋田県",
+    "city": "秋田市",
+    "lat": 39.772493,
+    "lng": 140.224959,
+    "status": "open",
+    "airedDates": [
+      "2022-09-06"
+    ],
+    "signature": "ダブチョモ盛りがすごい",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "秋田県秋田市太平八田大岱下２４−１",
+    "note": ""
+  },
+  {
+    "slug": "hisashishikappou-isshin",
+    "name": "寿し割烹 一心",
+    "prefecture": "akita",
+    "prefectureJa": "秋田県",
+    "city": "秋田市",
+    "lat": 39.723333,
+    "lng": 140.133333,
+    "status": "open",
+    "airedDates": [
+      "2022-09-06"
+    ],
+    "signature": "マシンガンサービス店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "秋田県秋田市手形山崎町９−４０ 西村ビル",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-yamauchishokudou",
+    "name": "お食事処 山内食堂",
+    "prefecture": "akita",
+    "prefectureJa": "秋田県",
+    "city": "横手市",
+    "lat": 39.292573,
+    "lng": 140.589231,
+    "status": "open",
+    "airedDates": [
+      "2022-11-15"
+    ],
+    "signature": "半チャーハン１㎏ 250円⁈",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "秋田県横手市山内大沢下長瀞２３−５",
+    "note": ""
+  },
+  {
+    "slug": "otomoenshokudou",
+    "name": "おとも苑食堂",
+    "prefecture": "akita",
+    "prefectureJa": "秋田県",
+    "city": "能代市",
+    "lat": 40.178459,
+    "lng": 140.07763,
+    "status": "open",
+    "airedDates": [
+      "2023-11-14"
+    ],
+    "signature": "げんこつから揚げ",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "秋田県能代市腹鞁ノ沢１９−１０",
+    "note": ""
+  },
+  {
+    "slug": "sanya",
+    "name": "さん屋",
+    "prefecture": "aomori",
+    "prefectureJa": "青森県",
+    "city": "八戸市",
+    "lat": 40.505527,
+    "lng": 141.484795,
+    "status": "open",
+    "airedDates": [
+      "2021-06-29"
+    ],
+    "signature": "日替わり定食300円の激安 ランチ！",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "青森県八戸市上徒士町３−６",
+    "note": ""
+  },
+  {
+    "slug": "tsurukameyashokudou",
+    "name": "鶴亀屋食堂",
+    "prefecture": "aomori",
+    "prefectureJa": "青森県",
+    "city": "青森市",
+    "lat": 40.894328,
+    "lng": 140.86102,
+    "status": "open",
+    "airedDates": [
+      "2022-05-24"
+    ],
+    "signature": "山盛りマグロ丼",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "青森県青森市浅虫蛍谷２９３−１４",
+    "note": ""
+  },
+  {
+    "slug": "cafe-birthdaybaaasudei",
+    "name": "Cafe Birthdayばぁーすでい",
+    "prefecture": "aomori",
+    "prefectureJa": "青森県",
+    "city": "青森市",
+    "lat": 40.807968,
+    "lng": 140.786754,
+    "status": "open",
+    "airedDates": [
+      "2024-06-04"
+    ],
+    "signature": "いちごタワー",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "青森県青森市浜館３丁目３−３０",
+    "note": ""
+  },
+  {
+    "slug": "chuukasobajun",
+    "name": "中華そば純",
+    "prefecture": "aomori",
+    "prefectureJa": "青森県",
+    "city": "青森市",
+    "lat": 40.72183,
+    "lng": 140.581344,
+    "status": "open",
+    "airedDates": [
+      "2025-06-17"
+    ],
+    "signature": "ラーメン注文で チャーハン120円⁈",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "青森県青森市浪岡大字杉沢山元３３０−５",
+    "note": ""
+  },
+  {
+    "slug": "kantonryouri-fukuraiken",
+    "name": "広東料理 福来軒",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "佐倉市",
+    "lat": 35.710668,
+    "lng": 140.226945,
+    "status": "open",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "20cmジャンボ餃子 200円の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県佐倉市表町３丁目６−６",
+    "note": ""
+  },
+  {
+    "slug": "koryouri-kinyoubi",
+    "name": "小料理 金曜日",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "長生郡",
+    "lat": 35.417921,
+    "lng": 140.259964,
+    "status": "closed",
+    "airedDates": [
+      "2021-05-11"
+    ],
+    "signature": "デカ盛りカツカレー 800円の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県長生郡長南町須田８１−１",
+    "note": ""
+  },
+  {
+    "slug": "kanazawasakanamise",
+    "name": "金沢魚店",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "山武市",
+    "lat": 35.552644,
+    "lng": 140.464892,
+    "status": "open",
+    "airedDates": [
+      "2021-05-18"
+    ],
+    "signature": "刺身が美味しいから 食べてほしい店！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県山武市本須賀３６３６",
+    "note": ""
+  },
+  {
+    "slug": "sanosashokudou",
+    "name": "さのさ食堂",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "八千代市",
+    "lat": 35.725096,
+    "lng": 140.083894,
+    "status": "closed",
+    "airedDates": [
+      "2021-05-25"
+    ],
+    "signature": "刺身定食800円の激安店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "千葉県八千代市大和田新田４４４−１３",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-eiraku-eiraku",
+    "name": "中華料理 永楽(えいらく)",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "船橋市",
+    "lat": 35.700595,
+    "lng": 140.035026,
+    "status": "open",
+    "airedDates": [
+      "2021-06-22"
+    ],
+    "signature": "ワンコインラーメンの店",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "千葉県船橋市前原東５丁目３３−３",
+    "note": ""
+  },
+  {
+    "slug": "eishin",
+    "name": "永新",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "南房総市",
+    "lat": 34.977245,
+    "lng": 139.951654,
+    "status": "closed",
+    "airedDates": [
+      "2021-06-29"
+    ],
+    "signature": "ラーメン注文で炒飯が 無料の店",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "千葉県南房総市千倉町牧田１２４−２",
+    "note": "ただし閉業済み"
+  },
+  {
+    "slug": "yamatakun",
+    "name": "ヤマタくん",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "銚子市",
+    "lat": 35.734667,
+    "lng": 140.863108,
+    "status": "open",
+    "airedDates": [
+      "2021-08-10"
+    ],
+    "signature": "よ～い丼のある デカ盛り海鮮丼",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県銚子市黒生町６５２７−２７",
+    "note": ""
+  },
+  {
+    "slug": "tonkichi",
+    "name": "とん吉",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "印西市",
+    "lat": 35.815443,
+    "lng": 140.180738,
+    "status": "open",
+    "airedDates": [
+      "2021-09-21"
+    ],
+    "signature": "舟盛りミックスフライの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県印西市滝３９９",
+    "note": ""
+  },
+  {
+    "slug": "ishigegyorui-senshirodaihonmise",
+    "name": "石毛魚類 千城台本店",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "千葉市",
+    "lat": 35.619008,
+    "lng": 140.186049,
+    "status": "open",
+    "airedDates": [
+      "2021-09-28"
+    ],
+    "signature": "めっちゃ元気な鮮魚店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県千葉市若葉区千城台西２丁目１３−１",
+    "note": ""
+  },
+  {
+    "slug": "sobatokoro-nagoya",
+    "name": "そば処 名古屋",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "香取市",
+    "lat": 35.861188,
+    "lng": 140.598803,
+    "status": "open",
+    "airedDates": [
+      "2021-10-19"
+    ],
+    "signature": "特盛１㎏そばの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県香取市八日市場７９７−１",
+    "note": ""
+  },
+  {
+    "slug": "chuugokusakebou-yamucha-yamucha",
+    "name": "中国酒房 Yamucha(やむちゃ)",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "香取市",
+    "lat": 35.89643,
+    "lng": 140.496649,
+    "status": "open",
+    "airedDates": [
+      "2021-11-30"
+    ],
+    "signature": "何でもサービス 中華ママ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県香取市北３丁目６−１１",
+    "note": ""
+  },
+  {
+    "slug": "babapiza-hasunumaajikoubou",
+    "name": "BaBaピザ (はすぬま味工房)",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "山武市",
+    "lat": 35.601174,
+    "lng": 140.500216,
+    "status": "open",
+    "airedDates": [
+      "2022-06-21"
+    ],
+    "signature": "平均年齢78歳",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県山武市蓮沼ハ１０３",
+    "note": ""
+  },
+  {
+    "slug": "sushimentokoro-daikyou-sake-kurikaesi-imise",
+    "name": "すしめん処 大京 酒々井店",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "印旛郡",
+    "lat": 35.720468,
+    "lng": 140.262005,
+    "status": "open",
+    "airedDates": [
+      "2023-10-03"
+    ],
+    "signature": "タワー丼がすごい店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県印旛郡酒々井町上本佐倉１４５−１",
+    "note": "この店はチェーンらしく、紹介された料理が他でも提供されているかは要確認"
+  },
+  {
+    "slug": "resutoran-chikibontei",
+    "name": "レストラン チキボン亭",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "四街道市",
+    "lat": 35.673901,
+    "lng": 140.161798,
+    "status": "open",
+    "airedDates": [
+      "2024-06-25"
+    ],
+    "signature": "ボリュームたっぷり コンテナ店舗",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県四街道市大日３５３−３",
+    "note": ""
+  },
+  {
+    "slug": "yakitatepan-aoimori",
+    "name": "焼きたてパン 青い森",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "茂原市",
+    "lat": 35.465778,
+    "lng": 140.351238,
+    "status": "open",
+    "airedDates": [
+      "2025-07-15"
+    ],
+    "signature": "じゃがいもぱんが 美味しい店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "千葉県茂原市千沢８６１−１２",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-washamon",
+    "name": "お食事処 和舎門",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "千葉市",
+    "lat": 35.609755,
+    "lng": 140.12999,
+    "status": "open",
+    "airedDates": [
+      "2026-03-31"
+    ],
+    "signature": "100円カレーがある⁈",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "千葉県千葉市中央区本町２丁目７−７",
+    "note": ""
+  },
+  {
+    "slug": "tokiwaen",
+    "name": "ときわ苑",
+    "prefecture": "chiba",
+    "prefectureJa": "千葉県",
+    "city": "千葉市",
+    "lat": 35.608249,
+    "lng": 140.138173,
+    "status": "open",
+    "airedDates": [
+      "2026-05-26"
+    ],
+    "signature": "親子三代の町中華 500円ラーメン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "千葉県千葉市中央区都町３丁目１１−１",
+    "note": ""
+  },
+  {
+    "slug": "udon-sobatakanari-kounaru",
+    "name": "うどん そば高成（こうなる）",
+    "prefecture": "ehime",
+    "prefectureJa": "愛媛県",
+    "city": "松山市",
+    "lat": 33.778441,
+    "lng": 132.829117,
+    "status": "open",
+    "airedDates": [
+      "2023-01-17"
+    ],
+    "signature": "コスパうどん店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛媛県松山市中野町４０１−５",
+    "note": ""
+  },
+  {
+    "slug": "ekisaitosuupaatanaka",
+    "name": "エキサイトスーパータナカ",
+    "prefecture": "ehime",
+    "prefectureJa": "愛媛県",
+    "city": "伊予郡",
+    "lat": 33.75413,
+    "lng": 132.790703,
+    "status": "open",
+    "airedDates": [
+      "2023-01-17"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛媛県伊予郡砥部町宮内１０２９",
+    "note": ""
+  },
+  {
+    "slug": "ekisaitosuupaatanaka-4",
+    "name": "エキサイトスーパータナカ",
+    "prefecture": "ehime",
+    "prefectureJa": "愛媛県",
+    "city": "伊予郡",
+    "lat": 33.75413,
+    "lng": 132.790703,
+    "status": "open",
+    "airedDates": [
+      "2023-01-17"
+    ],
+    "signature": "激安スーパー",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛媛県伊予郡砥部町宮内１０２９",
+    "note": ""
+  },
+  {
+    "slug": "chuugokuryouri-honkon-izumimise",
+    "name": "中国料理 香港 和泉店",
+    "prefecture": "ehime",
+    "prefectureJa": "愛媛県",
+    "city": "松山市",
+    "lat": 33.822222,
+    "lng": 132.758056,
+    "status": "open",
+    "airedDates": [
+      "2023-01-17"
+    ],
+    "signature": "700円バイキング",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛媛県松山市和泉北１丁目４−２０ シティ森",
+    "note": "バイキング実施してるのはこの店のみらしい"
+  },
+  {
+    "slug": "ekisaitosuupaatanaka-2",
+    "name": "エキサイトスーパータナカ",
+    "prefecture": "ehime",
+    "prefectureJa": "愛媛県",
+    "city": "伊予郡",
+    "lat": 33.75413,
+    "lng": 132.790703,
+    "status": "open",
+    "airedDates": [
+      "2023-07-18"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛媛県伊予郡砥部町宮内１０２９",
+    "note": ""
+  },
+  {
+    "slug": "boniikafe-beekarii",
+    "name": "ボニーカフェ＆ベーカリー",
+    "prefecture": "ehime",
+    "prefectureJa": "愛媛県",
+    "city": "松山市",
+    "lat": 33.796065,
+    "lng": 132.81429,
+    "status": "open",
+    "airedDates": [
+      "2023-10-03"
+    ],
+    "signature": "ｴｷｻｲﾄｽｰﾊﾟｰﾀﾅｶで移動販売してた 可愛いパン屋さん",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛媛県松山市高井町１０８４",
+    "note": ""
+  },
+  {
+    "slug": "shinshuusobakubota",
+    "name": "信州そば久保田",
+    "prefecture": "ehime",
+    "prefectureJa": "愛媛県",
+    "city": "今治市",
+    "lat": 34.026686,
+    "lng": 133.006678,
+    "status": "closed",
+    "airedDates": [
+      "2023-10-03"
+    ],
+    "signature": "巨大モンブラン蕎麦",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛媛県今治市町谷１６３−９",
+    "note": ""
+  },
+  {
+    "slug": "ekisaitosuupaatanaka-3",
+    "name": "エキサイトスーパータナカ",
+    "prefecture": "ehime",
+    "prefectureJa": "愛媛県",
+    "city": "伊予郡",
+    "lat": 33.75413,
+    "lng": 132.790703,
+    "status": "open",
+    "airedDates": [
+      "2024-03-05"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "愛媛県伊予郡砥部町宮内１０２９",
+    "note": ""
+  },
+  {
+    "slug": "yoshidashokudou",
+    "name": "吉田食堂",
+    "prefecture": "fukui",
+    "prefectureJa": "福井県",
+    "city": "越前市",
+    "lat": 35.893313,
+    "lng": 136.166526,
+    "status": "open",
+    "airedDates": [
+      "2021-06-29"
+    ],
+    "signature": "130円14段ソフトクリーム",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "福井県越前市若竹町１１−２４",
+    "note": ""
+  },
+  {
+    "slug": "yamatoya",
+    "name": "大和屋",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.543783,
+    "lng": 130.361947,
+    "status": "open",
+    "airedDates": [
+      "2022-03-29"
+    ],
+    "signature": "パワー定食 唐揚げデカ盛り店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "福岡県福岡市城南区西片江２丁目２−１",
+    "note": ""
+  },
+  {
+    "slug": "menya-onoshokudou",
+    "name": "麺や おの食堂",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.592792,
+    "lng": 130.39488,
+    "status": "open",
+    "airedDates": [
+      "2022-04-19"
+    ],
+    "signature": "ご飯･味噌汁･替え玉 無料の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "福岡県福岡市中央区舞鶴１丁目８−４０ B1F",
+    "note": ""
+  },
+  {
+    "slug": "raamen-famirii",
+    "name": "ラーメン ファミリー",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.590334,
+    "lng": 130.22125,
+    "status": "open",
+    "airedDates": [
+      "2023-11-14"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "福岡県福岡市西区元岡２６３３−１",
+    "note": ""
+  },
+  {
+    "slug": "chuugokuhoppouryouri-shimikan",
+    "name": "中国北方料理 シミカン",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.581968,
+    "lng": 130.355361,
+    "status": "open",
+    "airedDates": [
+      "2024-03-19"
+    ],
+    "signature": "炒飯に麻婆豆腐がけ ヤングが安ウマ！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福岡県福岡市早良区西新５丁目１５−１９ コアロードマルスギ",
+    "note": ""
+  },
+  {
+    "slug": "kairyuu-hakatahonten",
+    "name": "魁龍 博多本店",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.578129,
+    "lng": 130.445485,
+    "status": "open",
+    "airedDates": [
+      "2024-04-02"
+    ],
+    "signature": "ずんだれ麺推しの ラーメン屋",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "福岡県福岡市博多区東那珂２丁目４−３１",
+    "note": ""
+  },
+  {
+    "slug": "morinoroguresutoran-arasuka",
+    "name": "森のログレストラン アラスカ",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "筑紫野市",
+    "lat": 33.48448,
+    "lng": 130.512586,
+    "status": "open",
+    "airedDates": [
+      "2024-05-21"
+    ],
+    "signature": "ボンバーピザがすごい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福岡県筑紫野市武蔵２丁目１０",
+    "note": ""
+  },
+  {
+    "slug": "ougyouza",
+    "name": "王餃子",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.591864,
+    "lng": 130.407312,
+    "status": "open",
+    "airedDates": [
+      "2024-08-27"
+    ],
+    "signature": "兄弟が作る焼めし",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福岡県福岡市博多区中洲２丁目５−９ 三田ビル",
+    "note": ""
+  },
+  {
+    "slug": "ougyouza-wangyouza",
+    "name": "王餃子(ワンギョウザ)",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.591864,
+    "lng": 130.407312,
+    "status": "open",
+    "airedDates": [
+      "2024-08-27"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福岡県福岡市博多区中洲２丁目５−９ 三田ビル",
+    "note": ""
+  },
+  {
+    "slug": "hakataraamenmatsuoshouten",
+    "name": "博多ラーメン松尾商店",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.638022,
+    "lng": 130.489092,
+    "status": "open",
+    "airedDates": [
+      "2024-10-08"
+    ],
+    "signature": "無限チャーハン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "福岡県福岡市東区蒲田３丁目３−９",
+    "note": ""
+  },
+  {
+    "slug": "sakanakuni",
+    "name": "魚国",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "久留米市",
+    "lat": 33.310202,
+    "lng": 130.590735,
+    "status": "open",
+    "airedDates": [
+      "2025-06-10"
+    ],
+    "signature": "盛り盛り海鮮丼 グローブ級トンカツ",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "福岡県久留米市山本町豊田１６３３−１",
+    "note": ""
+  },
+  {
+    "slug": "sakanakuni-uokuni",
+    "name": "魚国(うおくに)",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "久留米市",
+    "lat": 33.310202,
+    "lng": 130.590735,
+    "status": "open",
+    "airedDates": [
+      "2025-06-10"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福岡県久留米市山本町豊田１６３３−１",
+    "note": ""
+  },
+  {
+    "slug": "yataimamichan",
+    "name": "屋台まみちゃん",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.592056,
+    "lng": 130.397743,
+    "status": "open",
+    "airedDates": [
+      "2026-01-13"
+    ],
+    "signature": "爆炎が上がる屋台",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福岡県福岡市中央区天神２丁目１３−１ 昭和通り側",
+    "note": ""
+  },
+  {
+    "slug": "kitakitsunenodaikoubutsu",
+    "name": "キタキツネの大好物",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "福岡市",
+    "lat": 33.593415,
+    "lng": 130.351108,
+    "status": "open",
+    "airedDates": [
+      "2026-03-31"
+    ],
+    "signature": "キビキビ店長の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福岡県福岡市早良区百道浜２丁目３−２６",
+    "note": ""
+  },
+  {
+    "slug": "keishoku-kissarediibaado",
+    "name": "軽食•喫茶レディーバード",
+    "prefecture": "fukuoka",
+    "prefectureJa": "福岡県",
+    "city": "飯塚市",
+    "lat": 33.634915,
+    "lng": 130.681686,
+    "status": "open",
+    "airedDates": [
+      "2026-05-12"
+    ],
+    "signature": "お冷注ぎまくる 安くて美味しい店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福岡県飯塚市東徳前９−２２",
+    "note": ""
+  },
+  {
+    "slug": "kissatenofisu",
+    "name": "喫茶店オフィス",
+    "prefecture": "fukushima",
+    "prefectureJa": "福島県",
+    "city": "いわき市",
+    "lat": 37.052535,
+    "lng": 140.891888,
+    "status": "closed",
+    "airedDates": [
+      "2021-09-14"
+    ],
+    "signature": "超デカ盛りオムライスの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福島県いわき市平小太郎町1−１−１５",
+    "note": ""
+  },
+  {
+    "slug": "taishuushokudoumidoriyashouten",
+    "name": "大衆食堂みどりや商店",
+    "prefecture": "fukushima",
+    "prefectureJa": "福島県",
+    "city": "郡山市",
+    "lat": 37.426669,
+    "lng": 140.366227,
+    "status": "open",
+    "airedDates": [
+      "2022-01-18"
+    ],
+    "signature": "大盛り野菜定食",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "福島県郡山市富田東３丁目２１３",
+    "note": ""
+  },
+  {
+    "slug": "mamii",
+    "name": "マミー",
+    "prefecture": "fukushima",
+    "prefectureJa": "福島県",
+    "city": "福島市",
+    "lat": 37.80181,
+    "lng": 140.486555,
+    "status": "open",
+    "airedDates": [
+      "2022-11-01"
+    ],
+    "signature": "蓋が閉まらない弁当",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福島県福島市宮代宝田前１−１４",
+    "note": ""
+  },
+  {
+    "slug": "ushitarou",
+    "name": "牛太楼",
+    "prefecture": "fukushima",
+    "prefectureJa": "福島県",
+    "city": "いわき市",
+    "lat": 37.047701,
+    "lng": 140.887132,
+    "status": "open",
+    "airedDates": [
+      "2024-03-26"
+    ],
+    "signature": "ネギいっぱい 鬼ごろしラーメン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "福島県いわき市小島町３丁目９−９",
+    "note": ""
+  },
+  {
+    "slug": "shiratoyakashimise",
+    "name": "白土屋菓子店",
+    "prefecture": "fukushima",
+    "prefectureJa": "福島県",
+    "city": "いわき市",
+    "lat": 37.068392,
+    "lng": 140.847139,
+    "status": "open",
+    "airedDates": [
+      "2024-03-26"
+    ],
+    "signature": "超特大シュークリーム",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福島県いわき市好間町上好間南町田３６−１",
+    "note": ""
+  },
+  {
+    "slug": "gohantokoroharu",
+    "name": "ごはん処はる",
+    "prefecture": "fukushima",
+    "prefectureJa": "福島県",
+    "city": "相馬郡",
+    "lat": 37.844383,
+    "lng": 140.918707,
+    "status": "open",
+    "airedDates": [
+      "2025-03-25"
+    ],
+    "signature": "白線の薄い店 ボリューム満点",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福島県相馬郡新地町駒ケ嶺新町１０３−１",
+    "note": ""
+  },
+  {
+    "slug": "shoujikashimise",
+    "name": "庄司菓子店",
+    "prefecture": "fukushima",
+    "prefectureJa": "福島県",
+    "city": "須賀川市",
+    "lat": 37.300847,
+    "lng": 140.373255,
+    "status": "open",
+    "airedDates": [
+      "2025-03-25"
+    ],
+    "signature": "巨大どら焼き",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "福島県須賀川市岩瀬森1−番地",
+    "note": ""
+  },
+  {
+    "slug": "ishiishokudou",
+    "name": "石井食堂",
+    "prefecture": "fukushima",
+    "prefectureJa": "福島県",
+    "city": "双葉郡",
+    "lat": 37.50142,
+    "lng": 140.762008,
+    "status": "open",
+    "airedDates": [
+      "2025-04-01"
+    ],
+    "signature": "チャーハン 盛り盛りの店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "福島県双葉郡葛尾村落合西ノ内９",
+    "note": ""
+  },
+  {
+    "slug": "kyuushuuraamenumaka",
+    "name": "九州ラーメンうまか",
+    "prefecture": "gifu",
+    "prefectureJa": "岐阜県",
+    "city": "岐阜市",
+    "lat": 35.39148,
+    "lng": 136.806722,
+    "status": "open",
+    "airedDates": [],
+    "signature": "日テレ秋特番 片桐D1番のチャーハン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "岐阜県岐阜市芋島３丁目３−３",
+    "note": ""
+  },
+  {
+    "slug": "kafetaiyume",
+    "name": "カフェ待夢",
+    "prefecture": "gifu",
+    "prefectureJa": "岐阜県",
+    "city": "大垣市",
+    "lat": 35.347398,
+    "lng": 136.64839,
+    "status": "open",
+    "airedDates": [
+      "2022-03-22"
+    ],
+    "signature": "モーニング数多い",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岐阜県大垣市直江町２４０−１",
+    "note": ""
+  },
+  {
+    "slug": "ofukuronoaji-nichinichi",
+    "name": "おふくろの味 日𠮷",
+    "prefecture": "gifu",
+    "prefectureJa": "岐阜県",
+    "city": "土岐市",
+    "lat": 35.360902,
+    "lng": 137.182283,
+    "status": "open",
+    "airedDates": [
+      "2023-05-16"
+    ],
+    "signature": "サービス満点お母さん",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岐阜県土岐市泉郷町１丁目２６",
+    "note": ""
+  },
+  {
+    "slug": "matsusushi",
+    "name": "まつ寿司",
+    "prefecture": "gifu",
+    "prefectureJa": "岐阜県",
+    "city": "各務原市",
+    "lat": 35.403504,
+    "lng": 136.862379,
+    "status": "open",
+    "airedDates": [
+      "2023-07-04"
+    ],
+    "signature": "駐車場の白線が薄い店 行列の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岐阜県各務原市蘇原早苗町８４",
+    "note": ""
+  },
+  {
+    "slug": "makotoryuu",
+    "name": "誠龍",
+    "prefecture": "gifu",
+    "prefectureJa": "岐阜県",
+    "city": "各務原市",
+    "lat": 35.399737,
+    "lng": 136.86948,
+    "status": "open",
+    "airedDates": [
+      "2023-07-04"
+    ],
+    "signature": "駐車場の白線が薄い ボリューミーな店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岐阜県各務原市蘇原三柿野町２丁目８",
+    "note": ""
+  },
+  {
+    "slug": "unagiyanozawaya-honten",
+    "name": "うなぎや野沢屋 本店",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "太田市",
+    "lat": 36.295205,
+    "lng": 139.377618,
+    "status": "open",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "自分でうなぎを焼く ｴｷｻｲﾃｨﾝｸﾞな店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県太田市東本町２２−６",
+    "note": "分店もあるらしいが、そちらも同じメニューを提供しているかは要確認"
+  },
+  {
+    "slug": "tsurushoubunko",
+    "name": "鶴商文庫",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "藤岡市",
+    "lat": 36.231789,
+    "lng": 139.074906,
+    "status": "open",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "デカすぎるハンバーグ屋",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "群馬県藤岡市本郷８３２−１",
+    "note": ""
+  },
+  {
+    "slug": "chainiizuresutoran-kanarin-kanai",
+    "name": "チャイニーズレストラン 加奈藺(かない)",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "前橋市",
+    "lat": 36.385361,
+    "lng": 139.036935,
+    "status": "open",
+    "airedDates": [
+      "2021-05-04"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県前橋市元総社町２４７０−２",
+    "note": ""
+  },
+  {
+    "slug": "kanarin",
+    "name": "加奈藺",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "前橋市",
+    "lat": 36.385361,
+    "lng": 139.036935,
+    "status": "open",
+    "airedDates": [
+      "2021-05-04"
+    ],
+    "signature": "普通が大盛？デカ盛りの チャイニーズレストラン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県前橋市元総社町２４７０−２",
+    "note": ""
+  },
+  {
+    "slug": "koohiihausuraifu",
+    "name": "珈琲ハウスライフ",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "北群馬郡",
+    "lat": 36.445508,
+    "lng": 138.968134,
+    "status": "open",
+    "airedDates": [
+      "2021-11-09"
+    ],
+    "signature": "コーヒーハウス ”パラりまーす”",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県北群馬郡榛東村大字山子田２０４７−１",
+    "note": ""
+  },
+  {
+    "slug": "marumiyajihanki",
+    "name": "丸美屋自販機",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "みどり市",
+    "lat": 36.521745,
+    "lng": 139.306399,
+    "status": "open",
+    "airedDates": [
+      "2022-02-01"
+    ],
+    "signature": "レトロ自販機",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県みどり市東町花輪１９７３",
+    "note": ""
+  },
+  {
+    "slug": "setchan-udon",
+    "name": "せっちゃんうどん",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "伊勢崎市",
+    "lat": 36.328615,
+    "lng": 139.17765,
+    "status": "open",
+    "airedDates": [
+      "2022-02-22"
+    ],
+    "signature": "大量おかず付うどん ※2022年5月3日放送時 ★ 竜園 ★ パンプキン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県伊勢崎市安堀町１２７５",
+    "note": ""
+  },
+  {
+    "slug": "kushiyachuuji",
+    "name": "くしや忠治",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "伊勢崎市",
+    "lat": 36.335292,
+    "lng": 139.244606,
+    "status": "open",
+    "airedDates": [
+      "2022-04-12"
+    ],
+    "signature": "デカ焼きまんじゅう",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県伊勢崎市東小保方町3064−４",
+    "note": ""
+  },
+  {
+    "slug": "kobayashikunyaoya",
+    "name": "小林君八百屋",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "太田市",
+    "lat": 36.283689,
+    "lng": 139.304666,
+    "status": "open",
+    "airedDates": [
+      "2022-04-26"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県太田市新田木崎町１３１８−４",
+    "note": ""
+  },
+  {
+    "slug": "sobatokoro-mikuni",
+    "name": "そば処 三国",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "北群馬郡",
+    "lat": 36.453,
+    "lng": 139.002375,
+    "status": "open",
+    "airedDates": [
+      "2022-05-31"
+    ],
+    "signature": "舟盛り三国丸",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県北群馬郡吉岡町上野田８６−３",
+    "note": ""
+  },
+  {
+    "slug": "yamatochake",
+    "name": "大和茶家",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "前橋市",
+    "lat": 36.422778,
+    "lng": 139.056244,
+    "status": "closed",
+    "airedDates": [
+      "2022-06-14"
+    ],
+    "signature": "焼そば専門店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県前橋市荒牧町２丁目１１−１６ 焼そば大和茶家",
+    "note": ""
+  },
+  {
+    "slug": "sabuchanno-yakimanjuu",
+    "name": "さぶちゃんの 焼きまんじゅう",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "前橋市",
+    "lat": 36.419075,
+    "lng": 139.080458,
+    "status": "open",
+    "airedDates": [
+      "2022-09-06"
+    ],
+    "signature": "寿司桶焼きそば",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県前橋市上細井町１９２２−１",
+    "note": ""
+  },
+  {
+    "slug": "kobayashikunyaoya-2",
+    "name": "小林君八百屋",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "太田市",
+    "lat": 36.283689,
+    "lng": 139.304666,
+    "status": "open",
+    "airedDates": [
+      "2022-10-18"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県太田市新田木崎町１３１８−４",
+    "note": ""
+  },
+  {
+    "slug": "kobayashikunyaoya-4",
+    "name": "小林君八百屋",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "みどり市",
+    "lat": 36.434608,
+    "lng": 139.274917,
+    "status": "closed",
+    "airedDates": [
+      "2022-10-18"
+    ],
+    "signature": "歌う社長がいる 八百屋さん",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県みどり市大間々町大間々１３６４−１",
+    "note": ""
+  },
+  {
+    "slug": "takoyakibenten-takasakihonten",
+    "name": "たこ焼べんてん 高崎本店",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "高崎市",
+    "lat": 36.384197,
+    "lng": 139.000248,
+    "status": "open",
+    "airedDates": [
+      "2022-12-27"
+    ],
+    "signature": "踊る店主の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県高崎市棟高町１３０−２",
+    "note": ""
+  },
+  {
+    "slug": "kobayashikunyaoya-3",
+    "name": "小林君八百屋",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "太田市",
+    "lat": 36.283689,
+    "lng": 139.304666,
+    "status": "open",
+    "airedDates": [
+      "2023-03-14"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県太田市新田木崎町１３１８−４",
+    "note": ""
+  },
+  {
+    "slug": "taishuushokudouwasshoi",
+    "name": "大衆食堂わっしょい",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "太田市",
+    "lat": 36.294577,
+    "lng": 139.376969,
+    "status": "open",
+    "airedDates": [
+      "2023-05-09"
+    ],
+    "signature": "野沢屋本店の店主が行く店 唐揚げがでかすぎ！！",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "群馬県太田市東本町１７−１１",
+    "note": ""
+  },
+  {
+    "slug": "yanagawasoba-udon-takasagoiori",
+    "name": "柳川そば・うどん 高砂庵",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "高崎市",
+    "lat": 36.327378,
+    "lng": 139.002869,
+    "status": "closed",
+    "airedDates": [
+      "2023-06-13"
+    ],
+    "signature": "じゃんぼそばの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県高崎市柳川町９−８ ソシアルビル",
+    "note": ""
+  },
+  {
+    "slug": "menmono-samurai",
+    "name": "麺者 侍",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "桐生市",
+    "lat": 36.410311,
+    "lng": 139.339269,
+    "status": "open",
+    "airedDates": [
+      "2024-06-25"
+    ],
+    "signature": "ニンニクの量が 野蛮ラーメン屋",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "群馬県桐生市本町５丁目４９",
+    "note": ""
+  },
+  {
+    "slug": "biyukishokudou",
+    "name": "美ゆき食堂",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "高崎市",
+    "lat": 36.277606,
+    "lng": 139.113907,
+    "status": "open",
+    "airedDates": [
+      "2024-08-13"
+    ],
+    "signature": "元ボクサーの ソースカツ丼店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "群馬県高崎市新町３０３７−１",
+    "note": ""
+  },
+  {
+    "slug": "kouchanhanten",
+    "name": "広ちゃん飯店",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "前橋市",
+    "lat": 36.34113,
+    "lng": 139.086221,
+    "status": "open",
+    "airedDates": [
+      "2025-01-21"
+    ],
+    "signature": "エビぷりぷりチャーハン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県前橋市亀里町５２４−２",
+    "note": ""
+  },
+  {
+    "slug": "joushuusanzokumen-daidaibou-daidarabou",
+    "name": "上州山賊麺 大大坊 (だいだらぼう)",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "高崎市",
+    "lat": 36.323583,
+    "lng": 139.009468,
+    "status": "open",
+    "airedDates": [
+      "2025-07-08"
+    ],
+    "signature": "巨大チャーシュー麺",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県高崎市通町２０−１",
+    "note": ""
+  },
+  {
+    "slug": "yakisobasenmonten-yamaguchiya",
+    "name": "焼きそば専門店 山口屋",
+    "prefecture": "gunma",
+    "prefectureJa": "群馬県",
+    "city": "太田市",
+    "lat": 36.311256,
+    "lng": 139.391492,
+    "status": "open",
+    "airedDates": [
+      "2025-09-09"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "群馬県太田市東長岡町１３５０−１",
+    "note": ""
+  },
+  {
+    "slug": "ajidokoro-mandara",
+    "name": "味処 曼陀羅",
+    "prefecture": "hiroshima",
+    "prefectureJa": "広島県",
+    "city": "広島市",
+    "lat": 34.466982,
+    "lng": 132.472775,
+    "status": "open",
+    "airedDates": [
+      "2024-05-21"
+    ],
+    "signature": "もうけ知らず丼",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "広島県広島市安佐南区緑井２丁目１５−１６",
+    "note": ""
+  },
+  {
+    "slug": "tsuyakanomeguchan",
+    "name": "つやかのめぐちゃん",
+    "prefecture": "hiroshima",
+    "prefectureJa": "広島県",
+    "city": "広島市",
+    "lat": 34.531309,
+    "lng": 132.484137,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "カツタワーお好み焼き",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "広島県広島市安佐北区亀山７丁目２３−４３",
+    "note": ""
+  },
+  {
+    "slug": "marutomashokudou",
+    "name": "マルトマ食堂",
+    "prefecture": "hokkaido",
+    "prefectureJa": "北海道",
+    "city": "苫小牧市",
+    "lat": 42.629392,
+    "lng": 141.616872,
+    "status": "open",
+    "airedDates": [
+      "2021-12-14"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "北海道苫小牧市汐見町１丁目１−１３ 苫小牧市公設地方卸売市場",
+    "note": ""
+  },
+  {
+    "slug": "cake-amp-cafe-waraihisu",
+    "name": "cake&amp;cafe 笑飛巣",
+    "prefecture": "hokkaido",
+    "prefectureJa": "北海道",
+    "city": "砂川市",
+    "lat": 43.481013,
+    "lng": 141.911053,
+    "status": "open",
+    "airedDates": [
+      "2022-11-22"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "北海道砂川市東７条南８丁目１−１０",
+    "note": ""
+  },
+  {
+    "slug": "miyukichanteishoku",
+    "name": "みゆきちゃん定食",
+    "prefecture": "hokkaido",
+    "prefectureJa": "北海道",
+    "city": "札幌市",
+    "lat": 43.082633,
+    "lng": 141.344681,
+    "status": "closed",
+    "airedDates": [
+      "2022-11-22"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "北海道札幌市北区北１８条西５丁目２−３５",
+    "note": ""
+  },
+  {
+    "slug": "roota",
+    "name": "ロータ",
+    "prefecture": "hokkaido",
+    "prefectureJa": "北海道",
+    "city": "札幌市",
+    "lat": 43.045573,
+    "lng": 141.348036,
+    "status": "open",
+    "airedDates": [
+      "2022-11-22"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "北海道札幌市中央区南１１条西８丁目１−１１ フジハイツ",
+    "note": ""
+  },
+  {
+    "slug": "iwaryuuraamen",
+    "name": "岩龍らーめん",
+    "prefecture": "hokkaido",
+    "prefectureJa": "北海道",
+    "city": "札幌市",
+    "lat": 43.130832,
+    "lng": 141.24194,
+    "status": "open",
+    "airedDates": [
+      "2023-03-07"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "北海道札幌市手稲区前田５条１５丁目５−８",
+    "note": ""
+  },
+  {
+    "slug": "kogumanopuusan",
+    "name": "こぐまのプーさん",
+    "prefecture": "hyogo",
+    "prefectureJa": "兵庫県",
+    "city": "神戸市",
+    "lat": 34.654369,
+    "lng": 135.14764,
+    "status": "closed",
+    "airedDates": [
+      "2021-11-16"
+    ],
+    "signature": "定食650円の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "兵庫県神戸市長田区久保町４丁目５−５",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-yamato",
+    "name": "中華料理 大和",
+    "prefecture": "hyogo",
+    "prefectureJa": "兵庫県",
+    "city": "加古川市",
+    "lat": 34.743201,
+    "lng": 134.86023,
+    "status": "open",
+    "airedDates": [
+      "2022-01-11"
+    ],
+    "signature": "超デカ盛りちゃんぽん",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "兵庫県加古川市野口町二屋１２７−１",
+    "note": ""
+  },
+  {
+    "slug": "oonukihonten",
+    "name": "大貫本店",
+    "prefecture": "hyogo",
+    "prefectureJa": "兵庫県",
+    "city": "尼崎市",
+    "lat": 34.720217,
+    "lng": 135.414409,
+    "status": "open",
+    "airedDates": [
+      "2025-06-03"
+    ],
+    "signature": "スコップで調理⁈",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "兵庫県尼崎市神田中通３丁目２９−２９",
+    "note": ""
+  },
+  {
+    "slug": "oonuki-daikan-honten",
+    "name": "大貫(だいかん)本店",
+    "prefecture": "hyogo",
+    "prefectureJa": "兵庫県",
+    "city": "尼崎市",
+    "lat": 34.720217,
+    "lng": 135.414409,
+    "status": "open",
+    "airedDates": [
+      "2025-08-12"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "兵庫県尼崎市神田中通３丁目２９−２９",
+    "note": ""
+  },
+  {
+    "slug": "minmin",
+    "name": "珉珉(みんみん)",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "久慈郡",
+    "lat": 36.763221,
+    "lng": 140.370227,
+    "status": "closed",
+    "airedDates": [
+      "2021-04-13"
+    ],
+    "signature": "大盛り中華料理店！ 強烈キャラの鈴子ママ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県久慈郡大子町北田気５７−１",
+    "note": ""
+  },
+  {
+    "slug": "sendouryouri-tenshinmaru",
+    "name": "船頭料理 天心丸",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "北茨城市",
+    "lat": 36.832968,
+    "lng": 140.800933,
+    "status": "open",
+    "airedDates": [
+      "2021-04-13"
+    ],
+    "signature": "ドデカ天丼がすごい店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県北茨城市大津町７１０",
+    "note": ""
+  },
+  {
+    "slug": "keishokukeishokukissa-kuraretto",
+    "name": "軽食･喫茶 クラレット",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "つくば市",
+    "lat": 36.106801,
+    "lng": 140.103507,
+    "status": "open",
+    "airedDates": [
+      "2021-05-04"
+    ],
+    "signature": "大盛り肉天重の喫茶店",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "茨城県つくば市天久保３丁目１０−８",
+    "note": ""
+  },
+  {
+    "slug": "hidamarishokudou",
+    "name": "ひだまり食堂",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "神栖市",
+    "lat": 35.890217,
+    "lng": 140.642954,
+    "status": "open",
+    "airedDates": [
+      "2021-05-11"
+    ],
+    "signature": "ハーフも普通も同じ量？ 大盛の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "茨城県神栖市大野原７丁目７−１６",
+    "note": ""
+  },
+  {
+    "slug": "menhausu",
+    "name": "麺ハウス",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "日立市",
+    "lat": 36.571387,
+    "lng": 140.642872,
+    "status": "closed",
+    "airedDates": [
+      "2021-05-11"
+    ],
+    "signature": "ラーメン200円の格安店",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "茨城県日立市中成沢町４丁目１１−４",
+    "note": ""
+  },
+  {
+    "slug": "uokane-uokane",
+    "name": "ウオカネ(UOKANE)",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "水戸市",
+    "lat": 36.336053,
+    "lng": 140.484758,
+    "status": "open",
+    "airedDates": [
+      "2021-06-08"
+    ],
+    "signature": "寿司桶７段ランチ全てが デカ盛りの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県水戸市酒門町３３２２−１",
+    "note": ""
+  },
+  {
+    "slug": "koumonsoba",
+    "name": "黄門そば",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "水戸市",
+    "lat": 36.375447,
+    "lng": 140.47228,
+    "status": "open",
+    "airedDates": [
+      "2021-06-08"
+    ],
+    "signature": "名物けんちん汁で 山盛りそば",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県水戸市南町１丁目３−１１",
+    "note": ""
+  },
+  {
+    "slug": "takechanshokudou",
+    "name": "たけちゃん食堂",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "龍ケ崎市",
+    "lat": 35.908033,
+    "lng": 140.173787,
+    "status": "open",
+    "airedDates": [
+      "2021-07-13"
+    ],
+    "signature": "サービス品続々提供の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "茨城県龍ケ崎市川原代町５５９３−７",
+    "note": ""
+  },
+  {
+    "slug": "chuukashokudou-amagai",
+    "name": "中華食堂 天海",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "日立市",
+    "lat": 36.512151,
+    "lng": 140.621721,
+    "status": "open",
+    "airedDates": [
+      "2021-07-20"
+    ],
+    "signature": "溢れるスーラータンメン 進化したい店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "茨城県日立市大みか町１丁目５−１７",
+    "note": ""
+  },
+  {
+    "slug": "ajinoshokutaku",
+    "name": "味の食卓",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "土浦市",
+    "lat": 36.115336,
+    "lng": 140.177396,
+    "status": "open",
+    "airedDates": [
+      "2021-08-17"
+    ],
+    "signature": "定食500円の元気な ママのいる店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "茨城県土浦市下坂田２０２０",
+    "note": ""
+  },
+  {
+    "slug": "ouryou-kouryuu",
+    "name": "黄龍(こうりゅう)",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "水戸市",
+    "lat": 36.340319,
+    "lng": 140.471177,
+    "status": "open",
+    "airedDates": [
+      "2021-08-17"
+    ],
+    "signature": "550円ラーメンに たくさんの小鉢盛",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "茨城県水戸市元吉田町１４９０−１９",
+    "note": ""
+  },
+  {
+    "slug": "jizaketosakana-azukiya",
+    "name": "地酒と肴 あづきや",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "小美玉市",
+    "lat": 36.176016,
+    "lng": 140.321799,
+    "status": "open",
+    "airedDates": [
+      "2021-08-24"
+    ],
+    "signature": "おまかせ刺身８点盛 1680円の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県小美玉市上玉里２２５−８",
+    "note": ""
+  },
+  {
+    "slug": "shiwomishokudou",
+    "name": "しをみ食堂",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "行方市",
+    "lat": 35.995125,
+    "lng": 140.47312,
+    "status": "closed",
+    "airedDates": [
+      "2021-11-30"
+    ],
+    "signature": "でかカツカレー店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "茨城県行方市麻生５７５",
+    "note": ""
+  },
+  {
+    "slug": "ajinoshokusaikan",
+    "name": "味の食彩館",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "鉾田市",
+    "lat": 36.115871,
+    "lng": 140.577749,
+    "status": "open",
+    "airedDates": [
+      "2021-12-14"
+    ],
+    "signature": "特別さしみ定食1000円",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "茨城県鉾田市汲上３０７７−１",
+    "note": ""
+  },
+  {
+    "slug": "umaimonyokochou",
+    "name": "うまい門横丁",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "筑西市",
+    "lat": 36.300844,
+    "lng": 139.981643,
+    "status": "closed",
+    "airedDates": [
+      "2022-06-07"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県筑西市二木成１４９７",
+    "note": ""
+  },
+  {
+    "slug": "raunjiheri",
+    "name": "ラウンジ縁",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "筑西市",
+    "lat": 36.300904,
+    "lng": 139.981529,
+    "status": "closed",
+    "airedDates": [
+      "2022-06-07"
+    ],
+    "signature": "刺身定食700円 食べ放題の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "茨城県筑西市二木成１４９７ 昭和屋台村 うまいもん横丁",
+    "note": ""
+  },
+  {
+    "slug": "torebiiori",
+    "name": "とれび庵",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "水戸市",
+    "lat": 36.376726,
+    "lng": 140.469768,
+    "status": "open",
+    "airedDates": [
+      "2024-01-16"
+    ],
+    "signature": "肉も刺身メニューも 豪華すぎた",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "茨城県水戸市南町２丁目６−２１",
+    "note": ""
+  },
+  {
+    "slug": "tokujiroushokudou",
+    "name": "徳次郎食堂",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "桜川市",
+    "lat": 36.352257,
+    "lng": 140.164483,
+    "status": "closed",
+    "airedDates": [
+      "2024-02-20"
+    ],
+    "signature": "おかず３品980円",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "茨城県桜川市加茂部４６７−４",
+    "note": ""
+  },
+  {
+    "slug": "kyouchantei",
+    "name": "興ちゃん亭",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "桜川市",
+    "lat": 36.36474,
+    "lng": 140.113434,
+    "status": "open",
+    "airedDates": [
+      "2024-07-16"
+    ],
+    "signature": "よくばり中華丼がやばい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県桜川市富士見台１丁目１８",
+    "note": ""
+  },
+  {
+    "slug": "honkakuteuchichiraamen-fujiya",
+    "name": "本格手打ちラーメン 藤屋",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "古河市",
+    "lat": 36.207498,
+    "lng": 139.755566,
+    "status": "open",
+    "airedDates": [
+      "2024-08-06"
+    ],
+    "signature": "88歳店主の佐野ラーメン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "茨城県古河市小堤２０１０−１",
+    "note": ""
+  },
+  {
+    "slug": "udonseimenmikiya",
+    "name": "うどん製麺みきや",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "水戸市",
+    "lat": 36.355294,
+    "lng": 140.447125,
+    "status": "open",
+    "airedDates": [
+      "2024-10-01"
+    ],
+    "signature": "１本ネギ丼がすごい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県水戸市千波町１８４１−１",
+    "note": ""
+  },
+  {
+    "slug": "tontairashokudou",
+    "name": "とん平食堂",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "牛久市",
+    "lat": 35.998798,
+    "lng": 140.15295,
+    "status": "open",
+    "airedDates": [
+      "2024-10-01"
+    ],
+    "signature": "もつ煮やせあぶらつけ麺",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "茨城県牛久市東大和田町２３０−６",
+    "note": ""
+  },
+  {
+    "slug": "tengusushi",
+    "name": "天狗鮨",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "ひたちなか市",
+    "lat": 36.396094,
+    "lng": 140.525338,
+    "status": "open",
+    "airedDates": [
+      "2025-06-17"
+    ],
+    "signature": "2貫で100円⁈",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県ひたちなか市元町２−４",
+    "note": ""
+  },
+  {
+    "slug": "izakayakazaoto",
+    "name": "居酒屋風音",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "那珂市",
+    "lat": 36.439631,
+    "lng": 140.501121,
+    "status": "open",
+    "airedDates": [
+      "2025-06-17"
+    ],
+    "signature": "おかずが全品100円",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "茨城県那珂市菅谷１９４１−３０２",
+    "note": ""
+  },
+  {
+    "slug": "raamen-gyouza250",
+    "name": "ラーメン・餃子250",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "水戸市",
+    "lat": 36.381633,
+    "lng": 140.459113,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "250円のラーメンがある",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "茨城県水戸市栄町１丁目１−１",
+    "note": ""
+  },
+  {
+    "slug": "yamahoushi",
+    "name": "山法師",
+    "prefecture": "ibaraki",
+    "prefectureJa": "茨城県",
+    "city": "ひたちなか市",
+    "lat": 36.433491,
+    "lng": 140.518086,
+    "status": "open",
+    "airedDates": [
+      "2026-06-02"
+    ],
+    "signature": "常陸牛が低価格",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "茨城県ひたちなか市佐和１１０４",
+    "note": ""
+  },
+  {
+    "slug": "anbaransuuchinadamise",
+    "name": "アンバランス内灘店",
+    "prefecture": "ishikawa",
+    "prefectureJa": "石川県",
+    "city": "河北郡",
+    "lat": 36.642797,
+    "lng": 136.637165,
+    "status": "closed",
+    "airedDates": [
+      "2022-04-26"
+    ],
+    "signature": "豪華なランチメニュー！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "石川県河北郡内灘町鶴ケ丘４丁目１−１２８",
+    "note": ""
+  },
+  {
+    "slug": "sushisushikaisenryouri-tsukutsukasa",
+    "name": "鮨･海鮮料理 津久司",
+    "prefecture": "ishikawa",
+    "prefectureJa": "石川県",
+    "city": "鳳珠郡",
+    "lat": 37.308031,
+    "lng": 137.150052,
+    "status": "open",
+    "airedDates": [
+      "2022-08-23"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "石川県鳳珠郡能登町宇出津新９７−１",
+    "note": ""
+  },
+  {
+    "slug": "bobuhausu",
+    "name": "ボブハウス",
+    "prefecture": "ishikawa",
+    "prefectureJa": "石川県",
+    "city": "小松市",
+    "lat": 36.336737,
+    "lng": 136.439482,
+    "status": "open",
+    "airedDates": [
+      "2025-06-10"
+    ],
+    "signature": "桜前線 35cmホットドッグ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "石川県小松市戸津町オ−１３−１",
+    "note": ""
+  },
+  {
+    "slug": "juuwarisoba-miyamatei-shinzantei",
+    "name": "十割蕎麦 深山亭 (しんざんてい)",
+    "prefecture": "iwate",
+    "prefectureJa": "岩手県",
+    "city": "北上市",
+    "lat": 39.282435,
+    "lng": 141.056355,
+    "status": "open",
+    "airedDates": [
+      "2023-05-23"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岩手県北上市和賀町岩崎２９地割３３３−１",
+    "note": ""
+  },
+  {
+    "slug": "onikenbu",
+    "name": "鬼剣舞",
+    "prefecture": "iwate",
+    "prefectureJa": "岩手県",
+    "city": "北上市",
+    "lat": 39.285286,
+    "lng": 141.105236,
+    "status": "open",
+    "airedDates": [
+      "2023-05-23"
+    ],
+    "signature": "鬼退治メニューがヤバイ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岩手県北上市北鬼柳３２地割３３",
+    "note": ""
+  },
+  {
+    "slug": "onikenbu-onikenbai-kitakamimise",
+    "name": "鬼剣舞(おにけんばい) 北上店",
+    "prefecture": "iwate",
+    "prefectureJa": "岩手県",
+    "city": "北上市",
+    "lat": 39.285286,
+    "lng": 141.105236,
+    "status": "open",
+    "airedDates": [
+      "2023-05-23"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岩手県北上市北鬼柳３２地割３３",
+    "note": ""
+  },
+  {
+    "slug": "taishuushokudoumarufuku",
+    "name": "大衆食堂まるふく",
+    "prefecture": "iwate",
+    "prefectureJa": "岩手県",
+    "city": "大船渡市",
+    "lat": 39.093975,
+    "lng": 141.70757,
+    "status": "open",
+    "airedDates": [
+      "2024-03-26"
+    ],
+    "signature": "鍋で提供される デカ盛りメニュー",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "岩手県大船渡市猪川町下権現堂１０３−５",
+    "note": ""
+  },
+  {
+    "slug": "takeshichanshokudou",
+    "name": "健ちゃん食堂",
+    "prefecture": "kagawa",
+    "prefectureJa": "香川県",
+    "city": "高松市",
+    "lat": 34.473509,
+    "lng": 133.825937,
+    "status": "closed",
+    "airedDates": [
+      "2022-08-09"
+    ],
+    "signature": "コスパ最強どんぶり飯",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "岡山県倉敷市児島下の町１０丁目384ｰ53",
+    "note": ""
+  },
+  {
+    "slug": "teuchichiudonhisaeda",
+    "name": "手打ちうどんひさ枝",
+    "prefecture": "kagawa",
+    "prefectureJa": "香川県",
+    "city": "高松市",
+    "lat": 34.353551,
+    "lng": 134.010627,
+    "status": "open",
+    "airedDates": [
+      "2025-01-28"
+    ],
+    "signature": "具だくさんのうどん屋",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "香川県高松市郷東町７９６−５３",
+    "note": ""
+  },
+  {
+    "slug": "tenshinhansenmontenten",
+    "name": "天津飯専門店てん",
+    "prefecture": "kagawa",
+    "prefectureJa": "香川県",
+    "city": "高松市",
+    "lat": 34.265541,
+    "lng": 134.024639,
+    "status": "open",
+    "airedDates": [
+      "2025-06-24"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "香川県高松市香川町大野１３４６",
+    "note": ""
+  },
+  {
+    "slug": "mukashinagaranochuukasoyoshida",
+    "name": "昔ながらの中華そ吉田",
+    "prefecture": "kagawa",
+    "prefectureJa": "香川県",
+    "city": "高松市",
+    "lat": 34.210331,
+    "lng": 134.020678,
+    "status": "open",
+    "airedDates": [
+      "2026-04-21"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "香川県高松市香川町安原下第３号１８３０−４",
+    "note": ""
+  },
+  {
+    "slug": "takohasshokudou",
+    "name": "たこ八食堂",
+    "prefecture": "kagoshima",
+    "prefectureJa": "鹿児島県",
+    "city": "鹿児島市",
+    "lat": 31.588467,
+    "lng": 130.538824,
+    "status": "closed",
+    "airedDates": [
+      "2022-02-15"
+    ],
+    "signature": "ぶた玉280円の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "鹿児島県鹿児島市西田３丁目８−２１",
+    "note": ""
+  },
+  {
+    "slug": "inaniwakazeudon-tamaya",
+    "name": "稲庭風うどん 玉や",
+    "prefecture": "kagoshima",
+    "prefectureJa": "鹿児島県",
+    "city": "鹿児島市",
+    "lat": 31.602766,
+    "lng": 130.535264,
+    "status": "open",
+    "airedDates": [
+      "2022-10-11"
+    ],
+    "signature": "ジョッキでうどん",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "鹿児島県鹿児島市永吉２丁目１０−４",
+    "note": ""
+  },
+  {
+    "slug": "keikokuen",
+    "name": "渓谷苑",
+    "prefecture": "kagoshima",
+    "prefectureJa": "鹿児島県",
+    "city": "鹿児島市",
+    "lat": 31.720618,
+    "lng": 130.572004,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "ダブルカツ丼に 滝行ができる?!",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "鹿児島県鹿児島市東佐多町７１０−２",
+    "note": ""
+  },
+  {
+    "slug": "echigoyakyuupii",
+    "name": "えちごやきゅーぴー",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "大和市",
+    "lat": 35.489685,
+    "lng": 139.451009,
+    "status": "open",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "ランチ680円の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県大和市西鶴間３丁目１−１４ 3階",
+    "note": ""
+  },
+  {
+    "slug": "nozawayabunke",
+    "name": "野沢屋分家",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "横浜市",
+    "lat": 35.384166,
+    "lng": 139.617967,
+    "status": "closed",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "【閉店】 群馬のエキサイティングな店 分家がオープン！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県横浜市磯子区杉田１丁目１３−６",
+    "note": ""
+  },
+  {
+    "slug": "hiroshishokudou",
+    "name": "ひろし食堂",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "小田原市",
+    "lat": 35.243066,
+    "lng": 139.142584,
+    "status": "open",
+    "airedDates": [
+      "2021-06-15"
+    ],
+    "signature": "こぼれスタミナ麺が 700円の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "神奈川県小田原市早川２丁目１６−１５",
+    "note": ""
+  },
+  {
+    "slug": "shokuraku-tazawako",
+    "name": "食楽 たざわこ",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "横浜市",
+    "lat": 35.464993,
+    "lng": 139.588521,
+    "status": "open",
+    "airedDates": [
+      "2021-06-22"
+    ],
+    "signature": "ランチメニュー385円の 店主はUberしてる店 ★ 焼鳥たざわこ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県横浜市保土ケ谷区和田１丁目１２−１７",
+    "note": ""
+  },
+  {
+    "slug": "izakaya-fukuhiro",
+    "name": "居酒屋 福ひろ",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "平塚市",
+    "lat": 35.33172,
+    "lng": 139.317927,
+    "status": "open",
+    "airedDates": [
+      "2021-06-29"
+    ],
+    "signature": "100円ラーメンの デカ盛り店",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "神奈川県平塚市山下２丁目１−７２３−２",
+    "note": ""
+  },
+  {
+    "slug": "haniizupootokafe",
+    "name": "ハニーズポートカフェ",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "横浜市",
+    "lat": 35.429511,
+    "lng": 139.663422,
+    "status": "open",
+    "airedDates": [
+      "2021-07-13"
+    ],
+    "signature": "元警察官の何でも 作っちゃうお店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県横浜市中区小港町３丁目１７５",
+    "note": ""
+  },
+  {
+    "slug": "itarianresutoran-mako",
+    "name": "イタリアンレストラン MAKO",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "足柄下郡",
+    "lat": 35.149569,
+    "lng": 139.141794,
+    "status": "open",
+    "airedDates": [
+      "2021-10-12"
+    ],
+    "signature": "ランチバイキング1000円の店 名物まこばぁばがつくるランチ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県足柄下郡真鶴町真鶴１３７０−１０",
+    "note": ""
+  },
+  {
+    "slug": "takamatsushokudou",
+    "name": "高松食堂",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "足柄下郡",
+    "lat": 35.151309,
+    "lng": 139.112407,
+    "status": "open",
+    "airedDates": [
+      "2021-10-12"
+    ],
+    "signature": "あんかけ過ぎ焼きそば",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "神奈川県足柄下郡湯河原町中央４丁目１０−２",
+    "note": ""
+  },
+  {
+    "slug": "ajiwaikaitenzushi-dan",
+    "name": "あじわい回転寿司 弾",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "小田原市",
+    "lat": 35.255594,
+    "lng": 139.170855,
+    "status": "open",
+    "airedDates": [
+      "2022-03-08"
+    ],
+    "signature": "空手店主の 変態回転寿司店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県小田原市東町２丁目１−２９",
+    "note": ""
+  },
+  {
+    "slug": "banbanbanchou",
+    "name": "バンバン番長",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "横浜市",
+    "lat": 35.447832,
+    "lng": 139.638321,
+    "status": "closed",
+    "airedDates": [
+      "2022-07-19"
+    ],
+    "signature": "ネギトロまみれ丼",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県横浜市中区弁天通３丁目３９−２０１",
+    "note": ""
+  },
+  {
+    "slug": "yakiniku-ajinosaimon-haratoumamise",
+    "name": "焼肉 味の彩門 原当麻店",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "相模原市",
+    "lat": 35.532716,
+    "lng": 139.371933,
+    "status": "open",
+    "airedDates": [
+      "2022-09-20"
+    ],
+    "signature": "定食がある焼肉屋",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "神奈川県相模原市南区当麻８６２−６ 原当麻 さいもん",
+    "note": ""
+  },
+  {
+    "slug": "maruhashi-yagamikawamise",
+    "name": "丸はし 矢上川店",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "川崎市",
+    "lat": 35.560616,
+    "lng": 139.643511,
+    "status": "closed",
+    "airedDates": [
+      "2022-12-06"
+    ],
+    "signature": "小鉢もメニューが多い",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県川崎市中原区井田２丁目９−１ 中山マーケット",
+    "note": ""
+  },
+  {
+    "slug": "chokusoukaisenjuu-gotensama",
+    "name": "直送海鮮重 御殿様",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "川崎市",
+    "lat": 35.615126,
+    "lng": 139.579906,
+    "status": "open",
+    "airedDates": [
+      "2023-08-29"
+    ],
+    "signature": "山盛り海鮮重がすごい店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県川崎市多摩区宿河原３丁目４−７ 正地ビル １０３",
+    "note": ""
+  },
+  {
+    "slug": "sumibikushiyakimonogatari-sake",
+    "name": "炭火串焼物語 SAKE",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "大和市",
+    "lat": 35.47288,
+    "lng": 139.46028,
+    "status": "open",
+    "airedDates": [
+      "2024-02-06"
+    ],
+    "signature": "蓋が閉まらない重ランチ",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "神奈川県大和市大和東２丁目７−３３",
+    "note": ""
+  },
+  {
+    "slug": "raamentokoroyonakasoba",
+    "name": "ラーメン処よなかそば",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "藤沢市",
+    "lat": 35.403501,
+    "lng": 139.415537,
+    "status": "open",
+    "airedDates": [
+      "2024-03-19"
+    ],
+    "signature": "玉手箱チャーハンの店",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "神奈川県藤沢市打戻１８９８−３",
+    "note": ""
+  },
+  {
+    "slug": "chuuka-nonchi",
+    "name": "中華 のんち",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "茅ヶ崎市",
+    "lat": 35.339172,
+    "lng": 139.408027,
+    "status": "open",
+    "airedDates": [
+      "2024-03-19"
+    ],
+    "signature": "熱々肉そばの店",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "神奈川県茅ヶ崎市茅ヶ崎８４４ 小川アパート",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-hokkaitei",
+    "name": "中華料理 北海亭",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "南足柄市",
+    "lat": 35.330893,
+    "lng": 139.112444,
+    "status": "closed",
+    "airedDates": [
+      "2024-04-30"
+    ],
+    "signature": "90歳の元気な お母さんの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県南足柄市壗下１２８",
+    "note": ""
+  },
+  {
+    "slug": "tsukubahanten",
+    "name": "筑波飯店",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "相模原市",
+    "lat": 35.540363,
+    "lng": 139.423423,
+    "status": "open",
+    "airedDates": [
+      "2024-04-30"
+    ],
+    "signature": "91歳のお母さん店主",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県相模原市南区若松３丁目９−６",
+    "note": ""
+  },
+  {
+    "slug": "kaisenjuu-gotensama-utage",
+    "name": "海鮮重 御殿様 宴",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "川崎市",
+    "lat": 35.615178,
+    "lng": 139.539966,
+    "status": "open",
+    "airedDates": [
+      "2024-07-23"
+    ],
+    "signature": "海鮮重御殿様の姉妹店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県川崎市多摩区西生田２丁目１−１",
+    "note": ""
+  },
+  {
+    "slug": "hoshikawaseimen-sai",
+    "name": "星川製麺 彩",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "川崎市",
+    "lat": 35.627562,
+    "lng": 139.542009,
+    "status": "open",
+    "airedDates": [
+      "2024-10-01"
+    ],
+    "signature": "製麺やのすり鉢メニュ でっかちゃんがやばい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "神奈川県川崎市多摩区菅馬場１丁目１２−１６",
+    "note": ""
+  },
+  {
+    "slug": "raamenkinkadou-zamahonten",
+    "name": "らーめんきんかどう 座間本店",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "座間市",
+    "lat": 35.507684,
+    "lng": 139.413969,
+    "status": "open",
+    "airedDates": [
+      "2024-10-08"
+    ],
+    "signature": "メガ盛りチャーハン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "神奈川県座間市広野台１丁目４−７ Ｓ１ビル’９０",
+    "note": ""
+  },
+  {
+    "slug": "yakinikujan",
+    "name": "焼肉ジャン",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "小田原市",
+    "lat": 35.256111,
+    "lng": 139.171443,
+    "status": "open",
+    "airedDates": [
+      "2024-12-17"
+    ],
+    "signature": "お肉の舟盛りが！",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "神奈川県小田原市東町２丁目１−８",
+    "note": ""
+  },
+  {
+    "slug": "yokohamakakeiraamen-yakahonjin",
+    "name": "横浜家系らーめん 八家本陣",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "横浜市",
+    "lat": 35.465169,
+    "lng": 139.588591,
+    "status": "open",
+    "airedDates": [
+      "2026-02-10"
+    ],
+    "signature": "たざわこ店主 の ラーメン店",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "神奈川県横浜市保土ケ谷区和田１丁目１２−１７",
+    "note": ""
+  },
+  {
+    "slug": "maruishokudou",
+    "name": "まるい食堂",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "三浦市",
+    "lat": 35.184851,
+    "lng": 139.628967,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "2kgかた焼きそば",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "神奈川県三浦市初声町下宮田２７５６",
+    "note": ""
+  },
+  {
+    "slug": "maruishokudou-2",
+    "name": "まるい食堂",
+    "prefecture": "kanagawa",
+    "prefectureJa": "神奈川県",
+    "city": "三浦市",
+    "lat": 35.184851,
+    "lng": 139.628967,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "神奈川県三浦市初声町下宮田２７５６",
+    "note": ""
+  },
+  {
+    "slug": "sengyoichihatsu",
+    "name": "鮮魚一八",
+    "prefecture": "kochi",
+    "prefectureJa": "高知県",
+    "city": "土佐清水市",
+    "lat": 32.785063,
+    "lng": 132.932986,
+    "status": "open",
+    "airedDates": [
+      "2025-06-24"
+    ],
+    "signature": "藁焼きカツオ丼！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "高知県土佐清水市養老２８３−１８",
+    "note": ""
+  },
+  {
+    "slug": "hirosueya",
+    "name": "廣末屋",
+    "prefecture": "kochi",
+    "prefectureJa": "高知県",
+    "city": "香南市",
+    "lat": 33.551173,
+    "lng": 133.77389,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "ニラ盛り盛り焼きそば",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "高知県香南市夜須町上夜須１８２−１",
+    "note": ""
+  },
+  {
+    "slug": "hirosueya-hirosueya",
+    "name": "廣末屋(ひろすえや)",
+    "prefecture": "kochi",
+    "prefectureJa": "高知県",
+    "city": "香南市",
+    "lat": 33.551173,
+    "lng": 133.77389,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "高知県香南市夜須町上夜須１８２−１",
+    "note": ""
+  },
+  {
+    "slug": "taishouken",
+    "name": "大勝軒",
+    "prefecture": "kumamoto",
+    "prefectureJa": "熊本県",
+    "city": "人吉市",
+    "lat": 32.215014,
+    "lng": 130.759226,
+    "status": "open",
+    "airedDates": [],
+    "signature": "1本6mのラーメン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "熊本県人吉市中青井町３２６−３",
+    "note": ""
+  },
+  {
+    "slug": "minamidoraibuin",
+    "name": "みなみドライブイン",
+    "prefecture": "kumamoto",
+    "prefectureJa": "熊本県",
+    "city": "八代市",
+    "lat": 32.547702,
+    "lng": 130.715493,
+    "status": "open",
+    "airedDates": [
+      "2024-12-03"
+    ],
+    "signature": "ちゃんぽん付定食",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "熊本県八代市東陽町南１０５０",
+    "note": ""
+  },
+  {
+    "slug": "youhachi",
+    "name": "揚八",
+    "prefecture": "kumamoto",
+    "prefectureJa": "熊本県",
+    "city": "八代市",
+    "lat": 32.526017,
+    "lng": 130.621384,
+    "status": "open",
+    "airedDates": [
+      "2024-12-03"
+    ],
+    "signature": "ドライブインみなみの 息子さんの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "熊本県八代市海士江町２９４８−５",
+    "note": ""
+  },
+  {
+    "slug": "raamengyouza-taishouken",
+    "name": "らーめんぎょうざ 大勝軒",
+    "prefecture": "kumamoto",
+    "prefectureJa": "熊本県",
+    "city": "人吉市",
+    "lat": 32.215014,
+    "lng": 130.759226,
+    "status": "open",
+    "airedDates": [
+      "2024-12-17"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "熊本県人吉市中青井町３２６−３",
+    "note": ""
+  },
+  {
+    "slug": "famiriiaji-kuitokoro-inakaya",
+    "name": "ファミリー味 喰い処 田舎屋",
+    "prefecture": "kumamoto",
+    "prefectureJa": "熊本県",
+    "city": "熊本市",
+    "lat": 32.796467,
+    "lng": 130.72463,
+    "status": "open",
+    "airedDates": [
+      "2026-03-17"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "熊本県熊本市中央区大江５丁目１６−９",
+    "note": ""
+  },
+  {
+    "slug": "inakaya",
+    "name": "田舎屋",
+    "prefecture": "kumamoto",
+    "prefectureJa": "熊本県",
+    "city": "熊本市",
+    "lat": 32.796467,
+    "lng": 130.72463,
+    "status": "open",
+    "airedDates": [
+      "2026-03-17"
+    ],
+    "signature": "仲良し家族の 激うまカレー",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "熊本県熊本市中央区大江５丁目１６−９",
+    "note": ""
+  },
+  {
+    "slug": "teishukanpaku",
+    "name": "亭主関白",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "福知山市",
+    "lat": 35.290981,
+    "lng": 135.122238,
+    "status": "open",
+    "airedDates": [
+      "2022-03-01"
+    ],
+    "signature": "ドデカコロッケ ちょっとだけ紹介",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "京都府福知山市駅南町２丁目２５",
+    "note": ""
+  },
+  {
+    "slug": "okonomiyakijanbo",
+    "name": "お好み焼きジャンボ",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 35.026122,
+    "lng": 135.724787,
+    "status": "open",
+    "airedDates": [
+      "2022-04-19"
+    ],
+    "signature": "テイクアウトで 取材お断りで残念",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "京都府京都市北区等持院南町３５",
+    "note": ""
+  },
+  {
+    "slug": "teppan",
+    "name": "てっぱん",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 35.024202,
+    "lng": 135.731766,
+    "status": "open",
+    "airedDates": [
+      "2022-08-30"
+    ],
+    "signature": "おかわり無料？ 息子さんのクレープ ▶ グラン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "京都府京都市北区大将軍川端町８６−２ ＷＡＫＩＳＡＫＡビル 1階",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-takashima",
+    "name": "お食事処 たかしま",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 35.033594,
+    "lng": 135.734703,
+    "status": "open",
+    "airedDates": [
+      "2023-11-21"
+    ],
+    "signature": "鯛のお頭定食800円？",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "京都府京都市北区平野鳥居前町２５",
+    "note": ""
+  },
+  {
+    "slug": "sousakukouboukei-kei",
+    "name": "創作工房Kei(けい)",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 35.035116,
+    "lng": 135.739314,
+    "status": "open",
+    "airedDates": [
+      "2023-11-21"
+    ],
+    "signature": "松茸ご飯入り 250円弁当",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "京都府京都市北区紫野中柏野町６５−２１",
+    "note": ""
+  },
+  {
+    "slug": "sousakukouboukei",
+    "name": "創作工房kei",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 35.035116,
+    "lng": 135.739314,
+    "status": "open",
+    "airedDates": [
+      "2023-11-21"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "京都府京都市北区紫野中柏野町６５−２１",
+    "note": ""
+  },
+  {
+    "slug": "kissa-kei",
+    "name": "喫茶 憩",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 35.02466,
+    "lng": 135.74259,
+    "status": "open",
+    "airedDates": [
+      "2023-11-21"
+    ],
+    "signature": "自家製ケーキが 映える",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "京都府京都市上京区亀屋町５７−１ 西陣ロイヤルハイツ 2F ビル",
+    "note": ""
+  },
+  {
+    "slug": "kafepaaku-mikkii",
+    "name": "カフェパーク ミッキー",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 35.029944,
+    "lng": 135.722181,
+    "status": "open",
+    "airedDates": [
+      "2024-12-17"
+    ],
+    "signature": "ロコモコ350円？",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "京都府京都市北区等持院北町５−３７",
+    "note": ""
+  },
+  {
+    "slug": "ippinryouri-tonkatsukatsuyuu",
+    "name": "一品料理 とんかつかつゆう",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 35.006007,
+    "lng": 135.72154,
+    "status": "open",
+    "airedDates": [
+      "2025-04-08"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "京都府京都市右京区山ノ内山ノ下町２０",
+    "note": ""
+  },
+  {
+    "slug": "chuukasobahakkouken",
+    "name": "中華そば八光軒",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 34.914461,
+    "lng": 135.725684,
+    "status": "open",
+    "airedDates": [
+      "2025-10-07"
+    ],
+    "signature": "麺大好きおばちゃん",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "京都府京都市伏見区納所岸ノ下２４−１０",
+    "note": ""
+  },
+  {
+    "slug": "daiougishokudou",
+    "name": "大扇食堂",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 34.904377,
+    "lng": 135.71916,
+    "status": "open",
+    "airedDates": [
+      "2025-10-07"
+    ],
+    "signature": "怒ってるイタリアン?",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "京都府京都市伏見区淀池上町１３６−１４",
+    "note": ""
+  },
+  {
+    "slug": "daiougishokudou-2",
+    "name": "大扇食堂",
+    "prefecture": "kyoto",
+    "prefectureJa": "京都府",
+    "city": "京都市",
+    "lat": 34.904377,
+    "lng": 135.71916,
+    "status": "open",
+    "airedDates": [
+      "2025-10-07"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "京都府京都市伏見区淀池上町１３６−１４",
+    "note": ""
+  },
+  {
+    "slug": "yakinikumise-totchan",
+    "name": "焼肉店 とっちゃん",
+    "prefecture": "mie",
+    "prefectureJa": "三重県",
+    "city": "松阪市",
+    "lat": 34.567538,
+    "lng": 136.531941,
+    "status": "open",
+    "airedDates": [
+      "2021-04-13"
+    ],
+    "signature": "燃えすぎホルモン焼肉店",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "三重県松阪市茶与町２３−２",
+    "note": ""
+  },
+  {
+    "slug": "chika",
+    "name": "千雅",
+    "prefecture": "mie",
+    "prefectureJa": "三重県",
+    "city": "津市",
+    "lat": 34.7329,
+    "lng": 136.514321,
+    "status": "open",
+    "airedDates": [
+      "2023-08-22"
+    ],
+    "signature": "警察署に出前する店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "三重県津市栄町３丁目１２９",
+    "note": ""
+  },
+  {
+    "slug": "chika-senga",
+    "name": "千雅(せんが)",
+    "prefecture": "mie",
+    "prefectureJa": "三重県",
+    "city": "津市",
+    "lat": 34.7329,
+    "lng": 136.514321,
+    "status": "open",
+    "airedDates": [
+      "2023-10-03"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "三重県津市栄町３丁目１２９",
+    "note": ""
+  },
+  {
+    "slug": "horumonkotetsu",
+    "name": "ホルモンこてつ",
+    "prefecture": "miyagi",
+    "prefectureJa": "宮城県",
+    "city": "仙台市",
+    "lat": 38.19068,
+    "lng": 140.906258,
+    "status": "open",
+    "airedDates": [
+      "2022-08-30"
+    ],
+    "signature": "豚ロース880円 肉の塊が！！",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "宮城県仙台市太白区中田町境７ ほるもん こてつ",
+    "note": ""
+  },
+  {
+    "slug": "umaimonoya",
+    "name": "うまいものや",
+    "prefecture": "miyagi",
+    "prefectureJa": "宮城県",
+    "city": "仙台市",
+    "lat": 38.258554,
+    "lng": 140.911957,
+    "status": "open",
+    "airedDates": [
+      "2023-02-07"
+    ],
+    "signature": "ステーキ定食小鉢付",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "宮城県仙台市宮城野区萩野町１丁目１６−１１ ソレイユ萩野町 １階",
+    "note": ""
+  },
+  {
+    "slug": "suiitoshoppuono",
+    "name": "スイートショップおの",
+    "prefecture": "miyagi",
+    "prefectureJa": "宮城県",
+    "city": "登米市",
+    "lat": 38.711899,
+    "lng": 141.239558,
+    "status": "closed",
+    "airedDates": [
+      "2023-03-07"
+    ],
+    "signature": "110円のケーキ⁈",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "宮城県登米市中田町宝江黒沼下道２１０−１",
+    "note": ""
+  },
+  {
+    "slug": "takoyakiivuchan",
+    "name": "たこ焼きイヴちゃん",
+    "prefecture": "miyagi",
+    "prefectureJa": "宮城県",
+    "city": "名取市",
+    "lat": 38.167297,
+    "lng": 140.899478,
+    "status": "open",
+    "airedDates": [
+      "2023-04-11"
+    ],
+    "signature": "とんかつ定食500円",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "宮城県名取市増田後島４３４",
+    "note": ""
+  },
+  {
+    "slug": "minshuku-asahiyamadoraibuin",
+    "name": "民宿 旭山ドライブイン",
+    "prefecture": "miyagi",
+    "prefectureJa": "宮城県",
+    "city": "石巻市",
+    "lat": 38.483094,
+    "lng": 141.191748,
+    "status": "open",
+    "airedDates": [
+      "2023-04-11"
+    ],
+    "signature": "オモウマい宿？！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "宮城県石巻市北村幕ケ崎二３−５",
+    "note": ""
+  },
+  {
+    "slug": "izakayapabu-tenisukooto",
+    "name": "居酒屋パブ テニスコート",
+    "prefecture": "miyagi",
+    "prefectureJa": "宮城県",
+    "city": "仙台市",
+    "lat": 38.224331,
+    "lng": 140.913189,
+    "status": "open",
+    "airedDates": [
+      "2025-03-25"
+    ],
+    "signature": "おまかせランチ 500円",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "宮城県仙台市若林区沖野５丁目８−１ 沖野ショッパーズ 2",
+    "note": ""
+  },
+  {
+    "slug": "hanachan",
+    "name": "はなちゃん",
+    "prefecture": "miyagi",
+    "prefectureJa": "宮城県",
+    "city": "遠田郡",
+    "lat": 38.533099,
+    "lng": 141.066764,
+    "status": "open",
+    "airedDates": [
+      "2025-06-10"
+    ],
+    "signature": "桜前線シリーズ 定食200円の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "宮城県遠田郡美里町志賀町１丁目８−４",
+    "note": ""
+  },
+  {
+    "slug": "sutandonasobakawaradoraibuin",
+    "name": "スタンド生そば川原ドライブイン",
+    "prefecture": "miyagi",
+    "prefectureJa": "宮城県",
+    "city": "大崎市",
+    "lat": 38.591312,
+    "lng": 140.974064,
+    "status": "open",
+    "airedDates": [
+      "2025-06-10"
+    ],
+    "signature": "桜前線シリーズ 300円カレー",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "宮城県大崎市古川休塚南川原６０−１",
+    "note": ""
+  },
+  {
+    "slug": "chanponhausu-tatsuya-katsusando",
+    "name": "チャンポンハウス たつや (かつサンド)",
+    "prefecture": "miyazaki",
+    "prefectureJa": "宮崎県",
+    "city": "児湯郡",
+    "lat": 32.073775,
+    "lng": 131.49514,
+    "status": "open",
+    "airedDates": [
+      "2022-08-09"
+    ],
+    "signature": "もろ見えカツサンド",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "宮崎県児湯郡新富町三納代１７９０−１",
+    "note": ""
+  },
+  {
+    "slug": "hyakushouudon",
+    "name": "百姓うどん",
+    "prefecture": "miyazaki",
+    "prefectureJa": "宮崎県",
+    "city": "宮崎市",
+    "lat": 31.906502,
+    "lng": 131.390314,
+    "status": "open",
+    "airedDates": [
+      "2022-08-09"
+    ],
+    "signature": "将軍盛にタワーかき氷",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "宮崎県宮崎市大塚町乱橋４５０２−１",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-chiajisai-chimisai",
+    "name": "中華料理 知味斎(ちみさい)",
+    "prefecture": "miyazaki",
+    "prefectureJa": "宮崎県",
+    "city": "日向市",
+    "lat": 32.418068,
+    "lng": 131.624959,
+    "status": "closed",
+    "airedDates": [
+      "2024-10-15"
+    ],
+    "signature": "ランチメニューがすごい ★ 中国料理 流通菜館",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "宮崎県日向市南町７−８",
+    "note": ""
+  },
+  {
+    "slug": "kissanonnon",
+    "name": "喫茶のんのん",
+    "prefecture": "nagano",
+    "prefectureJa": "長野県",
+    "city": "北佐久郡",
+    "lat": 36.318618,
+    "lng": 138.507007,
+    "status": "open",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "巨大パフェに漬物付き",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "長野県北佐久郡御代田町御代田２４２２−３３",
+    "note": ""
+  },
+  {
+    "slug": "akiyamashokudou",
+    "name": "秋山食堂",
+    "prefecture": "nagano",
+    "prefectureJa": "長野県",
+    "city": "長野市",
+    "lat": 36.643898,
+    "lng": 138.177404,
+    "status": "closed",
+    "airedDates": [
+      "2021-10-26"
+    ],
+    "signature": "チャーシューエッグ丼の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "長野県長野市小柴見３７５",
+    "note": ""
+  },
+  {
+    "slug": "torashokudou",
+    "name": "とら食堂",
+    "prefecture": "nagano",
+    "prefectureJa": "長野県",
+    "city": "須坂市",
+    "lat": 36.676658,
+    "lng": 138.28578,
+    "status": "open",
+    "airedDates": [
+      "2021-11-23"
+    ],
+    "signature": "ご飯･味噌汁･キャベツ おかわり無料の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "長野県須坂市相之島５３９",
+    "note": ""
+  },
+  {
+    "slug": "ajino-maru-maru",
+    "name": "味の〇〇",
+    "prefecture": "nagano",
+    "prefectureJa": "長野県",
+    "city": "長野市",
+    "lat": 36.61167,
+    "lng": 138.179436,
+    "status": "open",
+    "airedDates": [
+      "2021-11-23"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "長野県長野市下氷鉋１丁目１３７９−１",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-kurita",
+    "name": "お食事処 久利多",
+    "prefecture": "nagano",
+    "prefectureJa": "長野県",
+    "city": "長野市",
+    "lat": 36.63536,
+    "lng": 138.19132,
+    "status": "open",
+    "airedDates": [
+      "2022-04-12"
+    ],
+    "signature": "トリプル定食の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "長野県長野市栗田１８２",
+    "note": ""
+  },
+  {
+    "slug": "grand-guran",
+    "name": "grand（グラン）",
+    "prefecture": "nagano",
+    "prefectureJa": "長野県",
+    "city": "長野市",
+    "lat": 36.654234,
+    "lng": 138.192874,
+    "status": "open",
+    "airedDates": [
+      "2022-08-30"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "長野県長野市権堂町１５０６",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoroshimizuya",
+    "name": "お食事処清水屋",
+    "prefecture": "nagano",
+    "prefectureJa": "長野県",
+    "city": "東御市",
+    "lat": 36.364309,
+    "lng": 138.353527,
+    "status": "open",
+    "airedDates": [
+      "2025-04-22"
+    ],
+    "signature": "ミニがミニじゃない 盛り盛りご飯がすごい",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "長野県東御市鞍掛３９−２",
+    "note": ""
+  },
+  {
+    "slug": "oshokujinomise-banpuku",
+    "name": "お食事の店 萬福",
+    "prefecture": "nagasaki",
+    "prefectureJa": "長崎県",
+    "city": "平戸市",
+    "lat": 33.362546,
+    "lng": 129.578282,
+    "status": "open",
+    "airedDates": [
+      "2021-09-07"
+    ],
+    "signature": "お刺身おかわり無制限の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "長崎県平戸市田平町山内免３４４−２２",
+    "note": ""
+  },
+  {
+    "slug": "nagasakisuisanshokudou",
+    "name": "長崎水産食堂",
+    "prefecture": "nagasaki",
+    "prefectureJa": "長崎県",
+    "city": "長崎市",
+    "lat": 32.820941,
+    "lng": 129.767706,
+    "status": "open",
+    "airedDates": [
+      "2025-02-25"
+    ],
+    "signature": "特盛海鮮丼がすごい",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "長崎県長崎市京泊３丁目３−１",
+    "note": ""
+  },
+  {
+    "slug": "ra-menka-cha-hanka",
+    "name": "ﾗｰﾒﾝか!ﾁｬｰﾊﾝか!",
+    "prefecture": "nara",
+    "prefectureJa": "奈良県",
+    "city": "奈良市",
+    "lat": 34.693606,
+    "lng": 135.735647,
+    "status": "open",
+    "airedDates": [
+      "2024-10-08"
+    ],
+    "signature": "どっちかを注文すると？",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "奈良県奈良市富雄元町２丁目１−１７ 弘徳ビル",
+    "note": ""
+  },
+  {
+    "slug": "kiajiya",
+    "name": "喜味屋",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "長岡市",
+    "lat": 37.416492,
+    "lng": 138.838367,
+    "status": "open",
+    "airedDates": [],
+    "signature": "山盛り野菜炒め",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "新潟県長岡市摂田屋５丁目１０−２１",
+    "note": ""
+  },
+  {
+    "slug": "sobatokoro-kiajiyashokudou",
+    "name": "そば処 喜味屋食堂",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "長岡市",
+    "lat": 37.416492,
+    "lng": 138.838367,
+    "status": "open",
+    "airedDates": [
+      "2021-11-23"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "新潟県長岡市摂田屋５丁目１０−２１",
+    "note": ""
+  },
+  {
+    "slug": "yakitorihoshino",
+    "name": "やきとりほしの",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "新潟市",
+    "lat": 37.871862,
+    "lng": 138.971982,
+    "status": "open",
+    "airedDates": [
+      "2021-11-23"
+    ],
+    "signature": "負けず嫌いの店主 １串100円こだわり焼き鳥",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "新潟県新潟市西区寺尾東３丁目９−１７１５−１",
+    "note": ""
+  },
+  {
+    "slug": "kissamoka",
+    "name": "喫茶モカ",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "長岡市",
+    "lat": 37.447016,
+    "lng": 138.85054,
+    "status": "open",
+    "airedDates": [
+      "2022-02-15"
+    ],
+    "signature": "おばけパフェの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "新潟県長岡市東坂之上町１丁目４−６ Ritz セントラルビル ２階",
+    "note": ""
+  },
+  {
+    "slug": "honkakuoufuukareeshoppu-moka",
+    "name": "本格欧風カレーショップ モカ",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "長岡市",
+    "lat": 37.447016,
+    "lng": 138.85054,
+    "status": "open",
+    "airedDates": [
+      "2022-02-15"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "新潟県長岡市東坂之上町１丁目４−６ Ritz セントラルビル ２階",
+    "note": ""
+  },
+  {
+    "slug": "doraibuinoyanagi",
+    "name": "ドライブイン小柳",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "北蒲原郡",
+    "lat": 38.010207,
+    "lng": 139.274444,
+    "status": "open",
+    "airedDates": [
+      "2023-10-24"
+    ],
+    "signature": "すり鉢カレーのすごい店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "新潟県北蒲原郡聖籠町次第浜２０５５−３",
+    "note": ""
+  },
+  {
+    "slug": "chuukadaikichi",
+    "name": "中華大吉",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "長岡市",
+    "lat": 37.446386,
+    "lng": 138.848106,
+    "status": "open",
+    "airedDates": [
+      "2024-04-23"
+    ],
+    "signature": "シャッター閉まった デカラーメン店",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "新潟県長岡市殿町３丁目３−１",
+    "note": ""
+  },
+  {
+    "slug": "shouryuu",
+    "name": "勝龍",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "小千谷市",
+    "lat": 37.316686,
+    "lng": 138.79938,
+    "status": "open",
+    "airedDates": [
+      "2025-04-01"
+    ],
+    "signature": "サービス満点 ラーメン屋",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "新潟県小千谷市千谷川２丁目８−８",
+    "note": ""
+  },
+  {
+    "slug": "teuchichiraamen-shouryuu",
+    "name": "手打ちらーめん 勝龍",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "小千谷市",
+    "lat": 37.316686,
+    "lng": 138.79938,
+    "status": "open",
+    "airedDates": [
+      "2025-04-01"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "新潟県小千谷市千谷川２丁目８−８",
+    "note": ""
+  },
+  {
+    "slug": "kappouhashidate",
+    "name": "割烹橋立",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "上越市",
+    "lat": 37.247806,
+    "lng": 138.36951,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "そびえ立つアゲアゲ丼",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "新潟県上越市柿崎区上下浜９０６−２",
+    "note": ""
+  },
+  {
+    "slug": "arigatahasshokudou",
+    "name": "ありがた八食堂",
+    "prefecture": "niigata",
+    "prefectureJa": "新潟県",
+    "city": "上越市",
+    "lat": 37.119622,
+    "lng": 138.270611,
+    "status": "open",
+    "airedDates": [
+      "2026-06-30"
+    ],
+    "signature": "おかず15品ランチ",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "新潟県上越市稲田４丁目１１−１２",
+    "note": ""
+  },
+  {
+    "slug": "densukeshokudougatadashii",
+    "name": "でんすけ食堂が正しい",
+    "prefecture": "oita",
+    "prefectureJa": "大分県",
+    "city": "速見郡",
+    "lat": 33.368682,
+    "lng": 131.5419,
+    "status": "open",
+    "airedDates": [
+      "2022-06-14"
+    ],
+    "signature": "デカ盛り チキンカツの店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "大分県速見郡日出町川崎８４２−１２",
+    "note": ""
+  },
+  {
+    "slug": "shioyu",
+    "name": "塩湯",
+    "prefecture": "oita",
+    "prefectureJa": "大分県",
+    "city": "佐伯市",
+    "lat": 33.030953,
+    "lng": 131.920672,
+    "status": "open",
+    "airedDates": [
+      "2023-03-21"
+    ],
+    "signature": "豪華海鮮丼に 海水風呂も！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "大分県佐伯市上浦大字浅海井浦２９２０−３",
+    "note": ""
+  },
+  {
+    "slug": "resutorantouyouken",
+    "name": "レストラン東洋軒",
+    "prefecture": "oita",
+    "prefectureJa": "大分県",
+    "city": "別府市",
+    "lat": 33.300921,
+    "lng": 131.499537,
+    "status": "open",
+    "airedDates": [
+      "2023-11-07"
+    ],
+    "signature": "とり天発祥の店 駐車場ヒーローがすごい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "大分県別府市石垣東７丁目８−２２",
+    "note": ""
+  },
+  {
+    "slug": "oopunkafepopo",
+    "name": "オープンカフェポポ",
+    "prefecture": "okayama",
+    "prefectureJa": "岡山県",
+    "city": "苫田郡",
+    "lat": 35.112107,
+    "lng": 133.927247,
+    "status": "closed",
+    "airedDates": [
+      "2022-08-02"
+    ],
+    "signature": "分厚いビッグバーガー店 ※鳥取のスギちゃんとリサーチに",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岡山県苫田郡鏡野町小座５０２−３",
+    "note": ""
+  },
+  {
+    "slug": "suupukareeq-kyuu",
+    "name": "スープカレーq(キュー)",
+    "prefecture": "okayama",
+    "prefectureJa": "岡山県",
+    "city": "岡山市",
+    "lat": 34.86402,
+    "lng": 133.907957,
+    "status": "open",
+    "airedDates": [
+      "2024-06-18"
+    ],
+    "signature": "辛さ1000段階？",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岡山県岡山市北区建部町福渡９９６",
+    "note": ""
+  },
+  {
+    "slug": "sanukiudon-meigetsu-meigetsu",
+    "name": "讃岐うどん 明月(めいげつ)",
+    "prefecture": "okayama",
+    "prefectureJa": "岡山県",
+    "city": "倉敷市",
+    "lat": 34.610133,
+    "lng": 133.774137,
+    "status": "open",
+    "airedDates": [
+      "2024-06-18"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "岡山県倉敷市浜町２丁目１６−８５１−２",
+    "note": ""
+  },
+  {
+    "slug": "ayagushokudou",
+    "name": "あやぐ食堂",
+    "prefecture": "okinawa",
+    "prefectureJa": "沖縄県",
+    "city": "那覇市",
+    "lat": 26.217851,
+    "lng": 127.723983,
+    "status": "closed",
+    "airedDates": [
+      "2022-07-26"
+    ],
+    "signature": "低価格でボリューミー",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "沖縄県那覇市首里鳥堀町１丁目４５−２",
+    "note": ""
+  },
+  {
+    "slug": "chatsubo",
+    "name": "ちゃつぼ",
+    "prefecture": "okinawa",
+    "prefectureJa": "沖縄県",
+    "city": "豊見城市",
+    "lat": 26.189324,
+    "lng": 127.697526,
+    "status": "open",
+    "airedDates": [
+      "2022-07-26"
+    ],
+    "signature": "溢れるチーズ ハンバーグ丼の店",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "沖縄県豊見城市嘉数６８２",
+    "note": ""
+  },
+  {
+    "slug": "yanbaruyokochou",
+    "name": "やんばる横町",
+    "prefecture": "okinawa",
+    "prefectureJa": "沖縄県",
+    "city": "国頭郡",
+    "lat": 26.661128,
+    "lng": 128.102358,
+    "status": "open",
+    "airedDates": [
+      "2022-07-26"
+    ],
+    "signature": "ランチバイキング 1000円の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "沖縄県国頭郡大宜味村津波",
+    "note": ""
+  },
+  {
+    "slug": "kousunohana-esunohana",
+    "name": "江洲の花(えすのはな)",
+    "prefecture": "okinawa",
+    "prefectureJa": "沖縄県",
+    "city": "国頭郡",
+    "lat": 26.641121,
+    "lng": 128.126726,
+    "status": "open",
+    "airedDates": [
+      "2022-07-26"
+    ],
+    "signature": "無限わんこ 天ぷらそばの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "沖縄県国頭郡大宜味村大保３２６−２２４",
+    "note": ""
+  },
+  {
+    "slug": "sakanadaitouryou",
+    "name": "さかな大統漁",
+    "prefecture": "okinawa",
+    "prefectureJa": "沖縄県",
+    "city": "那覇市",
+    "lat": 26.243649,
+    "lng": 127.680298,
+    "status": "open",
+    "airedDates": [
+      "2025-10-07"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "沖縄県那覇市港町３丁目１−１７",
+    "note": ""
+  },
+  {
+    "slug": "ryoushishokudou-daibanburumai-sakanadaitouryou",
+    "name": "漁師食堂 大ばんぶる舞 さかな大統漁",
+    "prefecture": "okinawa",
+    "prefectureJa": "沖縄県",
+    "city": "那覇市",
+    "lat": 26.243649,
+    "lng": 127.680298,
+    "status": "open",
+    "airedDates": [
+      "2025-10-07"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "沖縄県那覇市港町３丁目１−１７",
+    "note": ""
+  },
+  {
+    "slug": "sobesoba",
+    "name": "楚辺そば",
+    "prefecture": "okinawa",
+    "prefectureJa": "沖縄県",
+    "city": "那覇市",
+    "lat": 26.20406,
+    "lng": 127.684688,
+    "status": "open",
+    "airedDates": [
+      "2026-06-09"
+    ],
+    "signature": "沖縄ソーキはここ!!",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "沖縄県那覇市楚辺２丁目３７−４０",
+    "note": ""
+  },
+  {
+    "slug": "jtrrd-jieiteiido",
+    "name": "JTRRD (ジェイティード)",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "大阪市",
+    "lat": 34.692775,
+    "lng": 135.515366,
+    "status": "open",
+    "airedDates": [
+      "2021-05-25"
+    ],
+    "signature": "映えるカラフルスムージー",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "大阪府大阪市北区天満３丁目４−５ タツタビル 1F",
+    "note": ""
+  },
+  {
+    "slug": "shokujitokoro-appa",
+    "name": "食事処 アッパ",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "大阪市",
+    "lat": 34.656933,
+    "lng": 135.52817,
+    "status": "open",
+    "airedDates": [
+      "2021-11-09"
+    ],
+    "signature": "ランチバイキング500円",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "大阪府大阪市生野区勝山北１丁目３−１６",
+    "note": ""
+  },
+  {
+    "slug": "shokujitokoroappa",
+    "name": "食事処アッパ",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "大阪市",
+    "lat": 34.656933,
+    "lng": 135.52817,
+    "status": "open",
+    "airedDates": [
+      "2021-11-09"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "大阪府大阪市生野区勝山北１丁目３−１６",
+    "note": ""
+  },
+  {
+    "slug": "petit-restaurant-giro-puteiresutoranjiroo",
+    "name": "Petit Restaurant Giro (プティレストランジロー)",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "大阪市",
+    "lat": 34.686405,
+    "lng": 135.498843,
+    "status": "open",
+    "airedDates": [
+      "2021-12-07"
+    ],
+    "signature": "ランチ1100円 フランス料理店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "大阪府大阪市中央区瓦町４丁目５−３ NIPPO 西本町ビル",
+    "note": ""
+  },
+  {
+    "slug": "udonkappou-sandaimekimuraya",
+    "name": "うどん割烹 三代目木村屋",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "大阪市",
+    "lat": 34.68027,
+    "lng": 135.506173,
+    "status": "open",
+    "airedDates": [
+      "2022-12-06"
+    ],
+    "signature": "釣り好き店主の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "大阪府大阪市中央区北久宝寺町２丁目１−２",
+    "note": ""
+  },
+  {
+    "slug": "ginshariya-gekotei",
+    "name": "銀シャリ屋 ゲコ亭",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "堺市",
+    "lat": 34.57259,
+    "lng": 135.467975,
+    "status": "open",
+    "airedDates": [
+      "2022-12-27"
+    ],
+    "signature": "飯炊き仙人",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "大阪府堺市堺区新在家町西１丁１−３０",
+    "note": ""
+  },
+  {
+    "slug": "hahanoajiagein",
+    "name": "母の味アゲイン",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "守口市",
+    "lat": 34.747707,
+    "lng": 135.601817,
+    "status": "open",
+    "airedDates": [
+      "2023-02-21"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "大阪府守口市藤田町５丁目３９−１",
+    "note": ""
+  },
+  {
+    "slug": "hahanoajiagein-2",
+    "name": "母の味アゲイン",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "守口市",
+    "lat": 34.747707,
+    "lng": 135.601817,
+    "status": "open",
+    "airedDates": [
+      "2023-02-21"
+    ],
+    "signature": "定食500円",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "大阪府守口市藤田町５丁目３９−１",
+    "note": ""
+  },
+  {
+    "slug": "tenpuradaikichi-sakaihigashimise",
+    "name": "天ぷら大吉 堺東店",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "堺市",
+    "lat": 34.575413,
+    "lng": 135.481564,
+    "status": "open",
+    "airedDates": [
+      "2024-02-06"
+    ],
+    "signature": "貝を床に捨てる店？",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "大阪府堺市堺区中瓦町１丁３−５",
+    "note": "支店がいくつかあるらしいが、テレビで放映されたメニューがあるかは要確認"
+  },
+  {
+    "slug": "takoyaki-dagashi-purupuru",
+    "name": "たこ焼・駄菓子 ぷるぷる",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "守口市",
+    "lat": 34.721964,
+    "lng": 135.579521,
+    "status": "open",
+    "airedDates": [
+      "2024-03-12"
+    ],
+    "signature": "690円定食に 小鉢盛りだくさん！",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "大阪府守口市寺方錦通３丁目７−１１",
+    "note": ""
+  },
+  {
+    "slug": "za-myunhi",
+    "name": "ザ・ミュンヒ",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "八尾市",
+    "lat": 34.614999,
+    "lng": 135.619448,
+    "status": "open",
+    "airedDates": [
+      "2024-09-03"
+    ],
+    "signature": "50分抽出珈琲店 ★ グリルショップやの ★ ラーメン仁",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "大阪府八尾市刑部２丁目３８６",
+    "note": ""
+  },
+  {
+    "slug": "atakashokudou",
+    "name": "あたか食堂",
+    "prefecture": "osaka",
+    "prefectureJa": "大阪府",
+    "city": "八尾市",
+    "lat": 34.619919,
+    "lng": 135.564991,
+    "status": "open",
+    "airedDates": [
+      "2024-11-12"
+    ],
+    "signature": "双子の姉妹の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "大阪府八尾市竹渕西１丁目４０",
+    "note": ""
+  },
+  {
+    "slug": "iwayaudon",
+    "name": "岩屋うどん",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "神埼市",
+    "lat": 33.35013,
+    "lng": 130.366032,
+    "status": "open",
+    "airedDates": [
+      "2024-05-21"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "佐賀県神埼市神埼町的１０７３−１",
+    "note": ""
+  },
+  {
+    "slug": "ezotsuko-takeomise",
+    "name": "えぞっ子 武雄店",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "武雄市",
+    "lat": 33.194664,
+    "lng": 130.024951,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "1000回通った店⁈",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "佐賀県武雄市武雄町大字武雄２３−２",
+    "note": "支店はいくつかあるものの、撮影されたのはこの店舗"
+  },
+  {
+    "slug": "guriruruumubigin",
+    "name": "ぐりるるーむびぎん",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "鹿島市",
+    "lat": 33.112679,
+    "lng": 130.088997,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "背の高い ロングパフェ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "佐賀県鹿島市高津原５００７",
+    "note": ""
+  },
+  {
+    "slug": "yakiniku-minamidaimon",
+    "name": "やき肉 南大門",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "佐賀市",
+    "lat": 33.239329,
+    "lng": 130.303789,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "牛たん490円⁈",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "佐賀県佐賀市本庄町袋２７６",
+    "note": ""
+  },
+  {
+    "slug": "doraibuinippei",
+    "name": "ドライブイン一平",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "小城市",
+    "lat": 33.283878,
+    "lng": 130.209491,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "盛りのいい カツカレー",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "佐賀県小城市三日月町久米１４８４−３",
+    "note": ""
+  },
+  {
+    "slug": "noriyoshiraamen",
+    "name": "徳吉ラーメン",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "佐賀市",
+    "lat": 33.218142,
+    "lng": 130.313632,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "癖になる辛みそ",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "佐賀県佐賀市川副町大字南里２１４６−１１",
+    "note": ""
+  },
+  {
+    "slug": "oufuukaree-hakusanbunga-shirayamabunga",
+    "name": "欧風カレー 白山文雅(しらやまぶんが)",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "佐賀市",
+    "lat": 33.254987,
+    "lng": 130.299004,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "佐賀県佐賀市白山１丁目２−１",
+    "note": ""
+  },
+  {
+    "slug": "yakinikuresutoranyorankan",
+    "name": "焼肉レストラン与羅ん館",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "佐賀市",
+    "lat": 33.219594,
+    "lng": 130.242893,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "佐賀牛ランチが破格",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "佐賀県佐賀市久保田町大字久富３９８３−３ 店休日：第三火曜日",
+    "note": ""
+  },
+  {
+    "slug": "hakusanbunga",
+    "name": "白山文雅",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "佐賀市",
+    "lat": 33.254987,
+    "lng": 130.299004,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "衝撃の一口提供？",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "佐賀県佐賀市白山１丁目２−１",
+    "note": ""
+  },
+  {
+    "slug": "hizenudon-shou",
+    "name": "肥前うどん 翔",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "佐賀市",
+    "lat": 33.249808,
+    "lng": 130.290054,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "ごぼう天がデカすぎる",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "佐賀県佐賀市西田代１丁目１−２",
+    "note": ""
+  },
+  {
+    "slug": "butabutahyoushi",
+    "name": "豚豚拍子",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "鹿島市",
+    "lat": 33.122056,
+    "lng": 130.09549,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "あっさりとんこつ",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "佐賀県鹿島市中村２０４２−１",
+    "note": "本店は不要 / 支店はないから / また他にも同名のお店が多数あるが、チェーン店などはなく、お店で紹介された店はここだけ"
+  },
+  {
+    "slug": "sakanateru",
+    "name": "魚てる",
+    "prefecture": "saga",
+    "prefectureJa": "佐賀県",
+    "city": "唐津市",
+    "lat": 33.531849,
+    "lng": 129.891427,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "サービスたっぷり",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "佐賀県唐津市呼子町殿ノ浦９１３−５",
+    "note": ""
+  },
+  {
+    "slug": "koto",
+    "name": "古都",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "入間市",
+    "lat": 35.845668,
+    "lng": 139.377547,
+    "status": "open",
+    "airedDates": [],
+    "signature": "ご飯継ぎ足しモリモリ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県入間市宮前町１２−１１",
+    "note": ""
+  },
+  {
+    "slug": "resutorankissa-roodosuteeshonsatte",
+    "name": "レストラン喫茶 ロードステーションさって",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "幸手市",
+    "lat": 36.076692,
+    "lng": 139.740672,
+    "status": "open",
+    "airedDates": [
+      "2021-04-13"
+    ],
+    "signature": "90㎝のロングソーセージの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県幸手市上吉羽４９５−６",
+    "note": ""
+  },
+  {
+    "slug": "izakayasuuchan",
+    "name": "居酒屋すぅちゃん",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "鶴ヶ島市",
+    "lat": 35.939334,
+    "lng": 139.426577,
+    "status": "open",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "蓋の閉まらない弁当300円 定食600円の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "埼玉県鶴ヶ島市上広谷４−３",
+    "note": ""
+  },
+  {
+    "slug": "ikoinomura",
+    "name": "いこいの村",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "鴻巣市",
+    "lat": 36.053762,
+    "lng": 139.531599,
+    "status": "closed",
+    "airedDates": [
+      "2021-05-04"
+    ],
+    "signature": "親子丼400円ワンコイン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県鴻巣市上谷２１８０−４",
+    "note": ""
+  },
+  {
+    "slug": "chuukaichiban",
+    "name": "中華一番",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "越谷市",
+    "lat": 35.892147,
+    "lng": 139.794892,
+    "status": "open",
+    "airedDates": [
+      "2021-05-04"
+    ],
+    "signature": "90歳の店主が営業する サービスランチが安い店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県越谷市東越谷１丁目４",
+    "note": ""
+  },
+  {
+    "slug": "renkon",
+    "name": "れんこん",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "戸田市",
+    "lat": 35.815574,
+    "lng": 139.646816,
+    "status": "closed",
+    "airedDates": [
+      "2021-06-29"
+    ],
+    "signature": "厚切りハムカツのデカ盛り",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県戸田市笹目６丁目１−３０",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-ooaji-taimii",
+    "name": "中華料理 大味(タイミー)",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "蕨市",
+    "lat": 35.828107,
+    "lng": 139.695759,
+    "status": "open",
+    "airedDates": [
+      "2021-06-29"
+    ],
+    "signature": "ジャンボ焼売に デカ盛り炒飯の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県蕨市塚越２丁目７−９",
+    "note": ""
+  },
+  {
+    "slug": "aizunomosaburou-aizuno-mosaburou",
+    "name": "會津野茂三郎 (あいづの もさぶろう)",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "比企郡",
+    "lat": 36.04491,
+    "lng": 139.338448,
+    "status": "open",
+    "airedDates": [
+      "2021-10-19"
+    ],
+    "signature": "ADが弟子入りしちゃった店 ▶40番こと南さんのお店オープン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県比企郡滑川町月輪８７９−１",
+    "note": ""
+  },
+  {
+    "slug": "shijoushokudou-hanaichi",
+    "name": "市場食堂 花いち",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "さいたま市",
+    "lat": 35.960624,
+    "lng": 139.609631,
+    "status": "open",
+    "airedDates": [
+      "2021-11-30"
+    ],
+    "signature": "ジャンボ海老フライ いくらかけ放題",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "埼玉県さいたま市北区吉野町２丁目２２６−１ 大宮市場 内",
+    "note": ""
+  },
+  {
+    "slug": "udondaichi",
+    "name": "うどん大地",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "行田市",
+    "lat": 36.13919,
+    "lng": 139.456359,
+    "status": "open",
+    "airedDates": [
+      "2022-03-08"
+    ],
+    "signature": "元気MAXうどん店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県行田市忍２丁目１８−３７",
+    "note": ""
+  },
+  {
+    "slug": "hontono-indoryouritokareenomise",
+    "name": "ほんとの インド料理とカレーの店",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "秩父市",
+    "lat": 36.048751,
+    "lng": 139.093987,
+    "status": "open",
+    "airedDates": [
+      "2023-09-12"
+    ],
+    "signature": "揚げ物がのった 海鮮丼がすごい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県秩父市寺尾２４２−１",
+    "note": ""
+  },
+  {
+    "slug": "hontonoindoryouritokareenomise",
+    "name": "ほんとのインド料理とカレーの店",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "秩父市",
+    "lat": 36.048751,
+    "lng": 139.093987,
+    "status": "open",
+    "airedDates": [
+      "2023-09-12"
+    ],
+    "signature": "熱々な巨大ナンの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県秩父市寺尾２４２−１",
+    "note": ""
+  },
+  {
+    "slug": "horumonyakimizuyoshishiten",
+    "name": "ホルモン焼水よし支店",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "熊谷市",
+    "lat": 36.142045,
+    "lng": 139.387928,
+    "status": "open",
+    "airedDates": [
+      "2023-10-17"
+    ],
+    "signature": "灼熱ホルモン焼",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "埼玉県熊谷市星川２丁目６９",
+    "note": ""
+  },
+  {
+    "slug": "takarayabaabekyuusentaa",
+    "name": "宝屋バーベキューセンター",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "熊谷市",
+    "lat": 36.180773,
+    "lng": 139.333575,
+    "status": "open",
+    "airedDates": [
+      "2023-10-24"
+    ],
+    "signature": "すり鉢の豚丼",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "埼玉県熊谷市別府１丁目１５",
+    "note": ""
+  },
+  {
+    "slug": "udonkissakuuu",
+    "name": "うどん喫茶くぅぅ",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "幸手市",
+    "lat": 36.067385,
+    "lng": 139.714654,
+    "status": "open",
+    "airedDates": [
+      "2023-12-19"
+    ],
+    "signature": "山盛り天ぷらうどん",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県幸手市上高野８０８−２",
+    "note": ""
+  },
+  {
+    "slug": "izakaya-tokujirou",
+    "name": "居酒屋 徳次郎",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "春日部市",
+    "lat": 35.948035,
+    "lng": 139.770292,
+    "status": "open",
+    "airedDates": [
+      "2024-02-20"
+    ],
+    "signature": "デカねぎま130円",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県春日部市大畑３０４−２",
+    "note": ""
+  },
+  {
+    "slug": "katsukatsutei",
+    "name": "かつかつ亭",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "桶川市",
+    "lat": 36.027339,
+    "lng": 139.57098,
+    "status": "closed",
+    "airedDates": [
+      "2024-07-09"
+    ],
+    "signature": "不思議かつカレー店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県桶川市加納２１５８−１",
+    "note": ""
+  },
+  {
+    "slug": "negigyouzakounosuuetanimise",
+    "name": "ねぎ餃子鴻巣上谷店",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "鴻巣市",
+    "lat": 36.061632,
+    "lng": 139.544562,
+    "status": "open",
+    "airedDates": [
+      "2024-07-09"
+    ],
+    "signature": "ななめうえをいく店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県鴻巣市上谷８７２",
+    "note": ""
+  },
+  {
+    "slug": "yoshidanoudon-ikoi",
+    "name": "吉田のうどん いこい",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "鴻巣市",
+    "lat": 36.053762,
+    "lng": 139.531599,
+    "status": "open",
+    "airedDates": [
+      "2024-07-09"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県鴻巣市上谷２１８０−４",
+    "note": ""
+  },
+  {
+    "slug": "yoshidanoudon-ikoi-2",
+    "name": "吉田のうどんいこい",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "鴻巣市",
+    "lat": 36.053762,
+    "lng": 139.531599,
+    "status": "open",
+    "airedDates": [
+      "2024-07-09"
+    ],
+    "signature": "盛り盛り馬肉うどん",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "埼玉県鴻巣市上谷２１８０−４",
+    "note": ""
+  },
+  {
+    "slug": "shiawasenochaahan",
+    "name": "幸せの炒飯",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "さいたま市",
+    "lat": 35.872512,
+    "lng": 139.642126,
+    "status": "open",
+    "airedDates": [
+      "2024-07-09"
+    ],
+    "signature": "炒飯はスープ付",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県さいたま市浦和区常盤９丁目３４",
+    "note": ""
+  },
+  {
+    "slug": "imaiya",
+    "name": "今井屋",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "秩父市",
+    "lat": 35.971219,
+    "lng": 139.066159,
+    "status": "open",
+    "airedDates": [
+      "2025-04-29"
+    ],
+    "signature": "94歳店主のみそポテト",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県秩父市下影森１７３",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-azumaie",
+    "name": "中華料理 あづま家",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "朝霞市",
+    "lat": 35.801611,
+    "lng": 139.600399,
+    "status": "open",
+    "airedDates": [
+      "2025-09-23"
+    ],
+    "signature": "灼熱厨房で調理",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県朝霞市仲町１丁目８−１",
+    "note": ""
+  },
+  {
+    "slug": "ajinoisamu",
+    "name": "味のイサム",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "羽生市",
+    "lat": 36.143701,
+    "lng": 139.553933,
+    "status": "open",
+    "airedDates": [
+      "2025-10-28"
+    ],
+    "signature": "W唐揚げ950円のデカ盛り",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県羽生市須影１０８",
+    "note": ""
+  },
+  {
+    "slug": "raamensenmonnagashima",
+    "name": "らーめん専門ながしま",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "比企郡",
+    "lat": 36.036309,
+    "lng": 139.457523,
+    "status": "open",
+    "airedDates": [
+      "2025-11-18"
+    ],
+    "signature": "83歳店主のラーメン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "埼玉県比企郡吉見町久保田１７３７",
+    "note": ""
+  },
+  {
+    "slug": "koto-koto",
+    "name": "古都(こと)",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "入間市",
+    "lat": 35.845668,
+    "lng": 139.377547,
+    "status": "open",
+    "airedDates": [
+      "2026-06-23"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "埼玉県入間市宮前町１２−１１",
+    "note": ""
+  },
+  {
+    "slug": "hanabusa",
+    "name": "はなぶさ",
+    "prefecture": "shiga",
+    "prefectureJa": "滋賀県",
+    "city": "犬上郡",
+    "lat": 35.222929,
+    "lng": 136.292105,
+    "status": "closed",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "スマホサイズの 握り寿司の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "滋賀県犬上郡多賀町多賀３２６−１",
+    "note": ""
+  },
+  {
+    "slug": "kouge",
+    "name": "コウゲ",
+    "prefecture": "shiga",
+    "prefectureJa": "滋賀県",
+    "city": "彦根市",
+    "lat": 35.276154,
+    "lng": 136.244424,
+    "status": "open",
+    "airedDates": [
+      "2022-05-17"
+    ],
+    "signature": "変わったメニュー名",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "滋賀県彦根市城町２丁目５−４３",
+    "note": ""
+  },
+  {
+    "slug": "baribarijonii-ryuuoumise",
+    "name": "バリバリジョニー 竜王店",
+    "prefecture": "shiga",
+    "prefectureJa": "滋賀県",
+    "city": "蒲生郡",
+    "lat": 35.093082,
+    "lng": 136.094373,
+    "status": "open",
+    "airedDates": [
+      "2025-07-22"
+    ],
+    "signature": "替え玉10円?! 夢を買う店主がいる?",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "滋賀県蒲生郡竜王町西横関３８",
+    "note": ""
+  },
+  {
+    "slug": "tanukinokuni-chuukaryouri-chanpon",
+    "name": "たぬきの国 ～中華料理 ちゃんぽん～",
+    "prefecture": "shimane",
+    "prefectureJa": "島根県",
+    "city": "江津市",
+    "lat": 34.938709,
+    "lng": 132.320028,
+    "status": "open",
+    "airedDates": [
+      "2024-04-16"
+    ],
+    "signature": "たぬきがいっぱい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "島根県江津市桜江町市山５０３−１",
+    "note": ""
+  },
+  {
+    "slug": "kadonoya",
+    "name": "かど乃や",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "裾野市",
+    "lat": 35.214977,
+    "lng": 138.90982,
+    "status": "closed",
+    "airedDates": [
+      "2021-04-27"
+    ],
+    "signature": "チャーシュー30枚",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "静岡県裾野市御宿１５０４−１３",
+    "note": ""
+  },
+  {
+    "slug": "ofukuroraamen",
+    "name": "おふくろラーメン",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "富士市",
+    "lat": 35.193832,
+    "lng": 138.588377,
+    "status": "open",
+    "airedDates": [
+      "2021-06-01"
+    ],
+    "signature": "550円のラーメンに サービス６品も！",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "静岡県富士市北松野５３８−１",
+    "note": ""
+  },
+  {
+    "slug": "nasubisouhonten-2",
+    "name": "なすび総本店",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "静岡市",
+    "lat": 35.008825,
+    "lng": 138.490007,
+    "status": "open",
+    "airedDates": [
+      "2021-07-20"
+    ],
+    "signature": "吊されたジャンボ海老フライ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "静岡県静岡市清水区富士見町５−８",
+    "note": ""
+  },
+  {
+    "slug": "yumenonakahe",
+    "name": "夢の中へ",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "沼津市",
+    "lat": 35.101706,
+    "lng": 138.857783,
+    "status": "closed",
+    "airedDates": [
+      "2021-09-14"
+    ],
+    "signature": "きちがい盛り ▶ ２代目夢の中へがオープン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "静岡県沼津市大手町５丁目９−１８",
+    "note": ""
+  },
+  {
+    "slug": "yumenonakahe-nidaime",
+    "name": "夢の中へ 二代目",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "富士市",
+    "lat": 35.139144,
+    "lng": 138.673839,
+    "status": "open",
+    "airedDates": [
+      "2021-09-14"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "静岡県富士市川成島１０２−２",
+    "note": ""
+  },
+  {
+    "slug": "donguri",
+    "name": "どんぐり",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "沼津市",
+    "lat": 35.101105,
+    "lng": 138.858001,
+    "status": "open",
+    "airedDates": [
+      "2021-09-21"
+    ],
+    "signature": "流れるスイーツの喫茶店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "静岡県沼津市大手町５丁目８−２２",
+    "note": ""
+  },
+  {
+    "slug": "gotenbakappou-oshokujitokoro-sakanakei",
+    "name": "御殿場割烹 お食事処 魚啓",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "御殿場市",
+    "lat": 35.302825,
+    "lng": 138.880133,
+    "status": "open",
+    "airedDates": [
+      "2022-08-02"
+    ],
+    "signature": "ざぶとんかき揚げ",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "静岡県御殿場市印野１６４８",
+    "note": ""
+  },
+  {
+    "slug": "nasubisouhonten",
+    "name": "なすび総本店",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "静岡市",
+    "lat": 35.008825,
+    "lng": 138.490007,
+    "status": "open",
+    "airedDates": [
+      "2023-09-19"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "静岡県静岡市清水区富士見町５−８",
+    "note": ""
+  },
+  {
+    "slug": "ipponkisoba",
+    "name": "一本氣蕎麦",
+    "prefecture": "shizuoka",
+    "prefectureJa": "静岡県",
+    "city": "静岡市",
+    "lat": 34.968378,
+    "lng": 138.395352,
+    "status": "open",
+    "airedDates": [
+      "2026-03-03"
+    ],
+    "signature": "元ボクサーの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "静岡県静岡市駿河区八幡３丁目１−２１",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryourimomoran",
+    "name": "中華料理桃蘭",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "塩谷郡",
+    "lat": 36.767327,
+    "lng": 139.83965,
+    "status": "open",
+    "airedDates": [],
+    "signature": "お客さんの要望に応えて 何でも作っちゃうお店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県塩谷郡塩谷町飯岡１０４８",
+    "note": ""
+  },
+  {
+    "slug": "yukishokudou-kinryuukaku",
+    "name": "幸来食堂 金龍閣",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "下都賀郡",
+    "lat": 36.434781,
+    "lng": 139.802171,
+    "status": "open",
+    "airedDates": [],
+    "signature": "揚げ物がのった 海鮮丼がすごい",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "栃木県下都賀郡壬生町大師町１８−１",
+    "note": ""
+  },
+  {
+    "slug": "yuuzenya",
+    "name": "遊膳や",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "小山市",
+    "lat": 36.301137,
+    "lng": 139.804264,
+    "status": "open",
+    "airedDates": [],
+    "signature": "ミニ丼680円の居酒屋",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県小山市神山２丁目８−１５",
+    "note": ""
+  },
+  {
+    "slug": "kazutomo-kazutohyaku",
+    "name": "かずとも(一十百)",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "真岡市",
+    "lat": 36.375546,
+    "lng": 139.962823,
+    "status": "open",
+    "airedDates": [
+      "2021-05-04"
+    ],
+    "signature": "寿司屋なのに 本格手打ち蕎麦がある",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県真岡市久下田西６丁目１９",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-momoran",
+    "name": "中華料理 桃蘭",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "塩谷郡",
+    "lat": 36.767327,
+    "lng": 139.83965,
+    "status": "open",
+    "airedDates": [
+      "2021-05-18"
+    ],
+    "signature": "普通が大盛？デカ盛りの チャイニーズレストラン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県塩谷郡塩谷町飯岡１０４８",
+    "note": ""
+  },
+  {
+    "slug": "momoran-touran",
+    "name": "桃蘭(とうらん)",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "塩谷郡",
+    "lat": 36.767327,
+    "lng": 139.83965,
+    "status": "open",
+    "airedDates": [
+      "2021-05-18"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県塩谷郡塩谷町飯岡１０４８",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-fuji",
+    "name": "お食事処 藤",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "宇都宮市",
+    "lat": 36.60593,
+    "lng": 139.916089,
+    "status": "closed",
+    "airedDates": [
+      "2021-05-25"
+    ],
+    "signature": "超デカ盛りすり鉢カレー",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "栃木県宇都宮市川俣町５９−６",
+    "note": ""
+  },
+  {
+    "slug": "hisashikoori-juhyosekaiichiwomezasu",
+    "name": "寿氷 juhyo世界一を目指す",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "真岡市",
+    "lat": 36.442475,
+    "lng": 140.013463,
+    "status": "open",
+    "airedDates": [
+      "2021-06-22"
+    ],
+    "signature": "日本一のとんがりかき氷店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県真岡市荒町５１６１",
+    "note": ""
+  },
+  {
+    "slug": "komakusa",
+    "name": "こま草",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "日光市",
+    "lat": 37.013684,
+    "lng": 139.729641,
+    "status": "open",
+    "airedDates": [
+      "2021-08-24"
+    ],
+    "signature": "山盛り天ぷらと 手打ちそばの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県日光市上三依６５３",
+    "note": ""
+  },
+  {
+    "slug": "yasuraginokyoshokutei-yuuzenya",
+    "name": "やすらぎの居食亭 遊膳や",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "小山市",
+    "lat": 36.301137,
+    "lng": 139.804264,
+    "status": "open",
+    "airedDates": [
+      "2021-08-24"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県小山市神山２丁目８−１５",
+    "note": ""
+  },
+  {
+    "slug": "amatou-kokorozashinasa-shinchou",
+    "name": "甘党 志ん朝(しんちょう)",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "矢板市",
+    "lat": 36.808721,
+    "lng": 139.932129,
+    "status": "open",
+    "airedDates": [
+      "2021-08-24"
+    ],
+    "signature": "焼きそば2人前300円！ 味付けやサイズが選べる",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県矢板市扇町１丁目２−１１",
+    "note": ""
+  },
+  {
+    "slug": "yakitorikappou-kushikado",
+    "name": "やきとり割烹 串かど",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "宇都宮市",
+    "lat": 36.577298,
+    "lng": 139.86028,
+    "status": "open",
+    "airedDates": [
+      "2021-10-12"
+    ],
+    "signature": "寿司ランチ600円の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県宇都宮市一ノ沢町２５５−１１",
+    "note": ""
+  },
+  {
+    "slug": "mentokoro-taian",
+    "name": "めん処 大安",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "足利市",
+    "lat": 36.321193,
+    "lng": 139.423976,
+    "status": "closed",
+    "airedDates": [
+      "2021-10-19"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県足利市南大町１８４−１",
+    "note": ""
+  },
+  {
+    "slug": "kafejaraoka",
+    "name": "カフェジャラオカ",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "佐野市",
+    "lat": 36.363166,
+    "lng": 139.547478,
+    "status": "open",
+    "airedDates": [
+      "2022-01-11"
+    ],
+    "signature": "格安自販機の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県佐野市出流原町５１２",
+    "note": ""
+  },
+  {
+    "slug": "kitamurashokudou",
+    "name": "北むら食堂",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "佐野市",
+    "lat": 36.368455,
+    "lng": 139.576741,
+    "status": "open",
+    "airedDates": [
+      "2022-01-11"
+    ],
+    "signature": "カフェジェラオカさんと 一緒に食べに行った店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "栃木県佐野市田沼町７０３",
+    "note": ""
+  },
+  {
+    "slug": "michinokuyataitsugaruraamen",
+    "name": "みちのく屋台津軽ラーメン",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "足利市",
+    "lat": 36.345944,
+    "lng": 139.41252,
+    "status": "open",
+    "airedDates": [
+      "2022-09-13"
+    ],
+    "signature": "週一ラーメン200円 廃車バスの店",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "栃木県足利市鹿島町１１１６−１",
+    "note": ""
+  },
+  {
+    "slug": "wafuuresutoran-ougen",
+    "name": "和風れすとらん おうげん",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "大田原市",
+    "lat": 36.857234,
+    "lng": 140.028623,
+    "status": "open",
+    "airedDates": [
+      "2022-09-27"
+    ],
+    "signature": "クックマンのいるお店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県大田原市元町１丁目１１−７１６−７",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-yasuda",
+    "name": "お食事処 安田",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "小山市",
+    "lat": 36.315704,
+    "lng": 139.804233,
+    "status": "open",
+    "airedDates": [
+      "2023-01-24"
+    ],
+    "signature": "お魚定食に弁当付？",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "栃木県小山市城山町２丁目１１−１２",
+    "note": ""
+  },
+  {
+    "slug": "teuchichiudon-guute",
+    "name": "手打ちうどん ぐう手",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "小山市",
+    "lat": 36.272188,
+    "lng": 139.77517,
+    "status": "open",
+    "airedDates": [
+      "2023-05-30"
+    ],
+    "signature": "素材にこだわったうどん",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県小山市東間々田１丁目６−１３",
+    "note": ""
+  },
+  {
+    "slug": "nihonryouri-kokorozashibuie",
+    "name": "日本料理 志ぶ家",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "大田原市",
+    "lat": 36.866479,
+    "lng": 140.025165,
+    "status": "open",
+    "airedDates": [
+      "2023-06-20"
+    ],
+    "signature": "コース5500円の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県大田原市中央１丁目１２−１８",
+    "note": ""
+  },
+  {
+    "slug": "kantonmeina-koukou",
+    "name": "広東名菜 好好",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "小山市",
+    "lat": 36.293695,
+    "lng": 139.786174,
+    "status": "open",
+    "airedDates": [
+      "2023-10-31"
+    ],
+    "signature": "激安チャーハン",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県小山市粟宮１丁目１３−１",
+    "note": ""
+  },
+  {
+    "slug": "kisakuhonten",
+    "name": "喜作本店",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "小山市",
+    "lat": 36.319198,
+    "lng": 139.736503,
+    "status": "open",
+    "airedDates": [
+      "2024-08-20"
+    ],
+    "signature": "おぼんカレーの デカ盛り店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県小山市南小林１４４−５",
+    "note": ""
+  },
+  {
+    "slug": "buraku",
+    "name": "豊楽",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "栃木市",
+    "lat": 36.368276,
+    "lng": 139.72618,
+    "status": "open",
+    "airedDates": [
+      "2024-11-19"
+    ],
+    "signature": "ぶっつけ本番の店⁉",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県栃木市境町２９−１",
+    "note": ""
+  },
+  {
+    "slug": "aotaketeuchichiraamen-keirin",
+    "name": "青竹手打ちラーメン 桂林",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "小山市",
+    "lat": 36.314359,
+    "lng": 139.805876,
+    "status": "open",
+    "airedDates": [
+      "2025-01-14"
+    ],
+    "signature": "ギガ･GODがヤバイ！",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "栃木県小山市城山町３丁目６−３１",
+    "note": ""
+  },
+  {
+    "slug": "namaikigyouza",
+    "name": "生意気餃子",
+    "prefecture": "tochigi",
+    "prefectureJa": "栃木県",
+    "city": "宇都宮市",
+    "lat": 36.544642,
+    "lng": 139.873179,
+    "status": "open",
+    "airedDates": [
+      "2025-09-30"
+    ],
+    "signature": "小鉢いっぱい ボリューム満点",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "栃木県宇都宮市吉野２丁目８−３８",
+    "note": ""
+  },
+  {
+    "slug": "shinasoba-takahashi",
+    "name": "支那そば たかはし",
+    "prefecture": "tokushima",
+    "prefectureJa": "徳島県",
+    "city": "徳島市",
+    "lat": 34.049103,
+    "lng": 134.578202,
+    "status": "open",
+    "airedDates": [
+      "2021-10-19"
+    ],
+    "signature": "半々チャーハンがデカ盛り",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "徳島県徳島市津田本町２丁目３−４６",
+    "note": ""
+  },
+  {
+    "slug": "hinadooru",
+    "name": "ひなどーる",
+    "prefecture": "tokushima",
+    "prefectureJa": "徳島県",
+    "city": "徳島市",
+    "lat": 34.070413,
+    "lng": 134.568265,
+    "status": "open",
+    "airedDates": [
+      "2024-02-27"
+    ],
+    "signature": "盛り盛りマンガ盛り",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "徳島県徳島市福島２丁目４",
+    "note": ""
+  },
+  {
+    "slug": "hekkerun",
+    "name": "ヘッケルン",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "港区",
+    "lat": 35.667865,
+    "lng": 139.752172,
+    "status": "open",
+    "airedDates": [
+      "2021-06-01"
+    ],
+    "signature": "ジャンボプリンの止まらない 店主がいる店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都港区西新橋１丁目２０−１１ 安藤ビル 1F",
+    "note": ""
+  },
+  {
+    "slug": "kankokutonichi-ton-ichi",
+    "name": "韓国トン一(トンイチ)",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "渋谷区",
+    "lat": 35.65912,
+    "lng": 139.699189,
+    "status": "closed",
+    "airedDates": [
+      "2021-06-15"
+    ],
+    "signature": "サムギョプサル980円に サービス満載の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都渋谷区道玄坂２丁目６−６ 藤山恒産第一ビル ２F",
+    "note": ""
+  },
+  {
+    "slug": "okonomi-yotchan",
+    "name": "お好み よっちゃん",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "大田区",
+    "lat": 35.556348,
+    "lng": 139.709132,
+    "status": "open",
+    "airedDates": [
+      "2021-08-10"
+    ],
+    "signature": "おでん1個50円におまけいっぱい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都大田区新蒲田１丁目２３−１０ 藪板金工業所",
+    "note": ""
+  },
+  {
+    "slug": "fussaraamen-poroharu",
+    "name": "福生ラーメン ポロ春",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "福生市",
+    "lat": 35.742149,
+    "lng": 139.331663,
+    "status": "open",
+    "airedDates": [
+      "2021-09-07"
+    ],
+    "signature": "元気な夫婦の一味変わった ラーメン屋さん",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "東京都福生市福生８６７",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-taishintei",
+    "name": "中華料理 大進亭",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "八王子市",
+    "lat": 35.678202,
+    "lng": 139.283879,
+    "status": "open",
+    "airedDates": [
+      "2022-05-10"
+    ],
+    "signature": "デカ盛りから揚げ店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都八王子市大楽寺町１８４",
+    "note": ""
+  },
+  {
+    "slug": "menhantentawarameshi",
+    "name": "麺飯店俵飯",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "小金井市",
+    "lat": 35.707406,
+    "lng": 139.496062,
+    "status": "open",
+    "airedDates": [
+      "2022-08-09"
+    ],
+    "signature": "大の大サイズって？！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都小金井市貫井北町２丁目１８−３",
+    "note": ""
+  },
+  {
+    "slug": "shigerousushi",
+    "name": "しげ老鮨",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "東村",
+    "lat": 35.755621,
+    "lng": 139.458425,
+    "status": "open",
+    "airedDates": [
+      "2022-09-27"
+    ],
+    "signature": "寿司屋でパスタ？",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都東村山市美住町２丁目２４−４７",
+    "note": ""
+  },
+  {
+    "slug": "raisuhaususato",
+    "name": "ライスハウス里",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "杉並区",
+    "lat": 35.711217,
+    "lng": 139.623293,
+    "status": "open",
+    "airedDates": [
+      "2022-11-29"
+    ],
+    "signature": "注文が難しい店⁈",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都杉並区本天沼２丁目９−３ 幸田ビル",
+    "note": ""
+  },
+  {
+    "slug": "teiiruumu-fain-esuteeto",
+    "name": "ティールーム ファインエステート",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "町田市",
+    "lat": 35.564483,
+    "lng": 139.464705,
+    "status": "open",
+    "airedDates": [
+      "2022-12-20"
+    ],
+    "signature": "紅茶に何でも乗せる 店主の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都町田市玉川学園７丁目８−９",
+    "note": ""
+  },
+  {
+    "slug": "pankoubou-boulangerie-ken",
+    "name": "パン工房 BOULANGERIE KEN",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "板橋区",
+    "lat": 35.771183,
+    "lng": 139.645623,
+    "status": "open",
+    "airedDates": [
+      "2022-12-20"
+    ],
+    "signature": "ベーグル8000種類の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都板橋区赤塚２丁目２−１７",
+    "note": ""
+  },
+  {
+    "slug": "kissaamerikan",
+    "name": "喫茶アメリカン",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "中央区",
+    "lat": 35.669781,
+    "lng": 139.76873,
+    "status": "open",
+    "airedDates": [
+      "2022-12-27"
+    ],
+    "signature": "分厚すぎサンドイッチ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都中央区銀座４丁目１１−７",
+    "note": ""
+  },
+  {
+    "slug": "asaratsudaigaku-uenoten",
+    "name": "麻辣大学 上野店",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "台東区",
+    "lat": 35.710582,
+    "lng": 139.773088,
+    "status": "open",
+    "airedDates": [
+      "2022-12-27"
+    ],
+    "signature": "大きなごま団子！",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都台東区上野２丁目１４−３１ レイクサイドビル 7F",
+    "note": ""
+  },
+  {
+    "slug": "ivo-hoomuzupasuta-shinjukuten",
+    "name": "IVO ホームズパスタ 新宿店",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "新宿区",
+    "lat": 35.692239,
+    "lng": 139.705469,
+    "status": "open",
+    "airedDates": [
+      "2023-02-21"
+    ],
+    "signature": "絶望パスタの店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都新宿区新宿３丁目１４−２３ マヤビル ３Ｆ",
+    "note": ""
+  },
+  {
+    "slug": "oyatsuyahyousakura-takesaku",
+    "name": "おやつや彪櫻（たけさく）",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "足立区",
+    "lat": 35.763585,
+    "lng": 139.767065,
+    "status": "open",
+    "airedDates": [
+      "2023-02-28"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都足立区扇２丁目２２−９",
+    "note": ""
+  },
+  {
+    "slug": "oyatsuya-hyousakura-takesaku",
+    "name": "おやつ屋 彪櫻(たけさく)",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "足立区",
+    "lat": 35.763585,
+    "lng": 139.767065,
+    "status": "open",
+    "airedDates": [
+      "2023-02-28"
+    ],
+    "signature": "大盛ランチ850円",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都足立区扇２丁目２２−９",
+    "note": ""
+  },
+  {
+    "slug": "buuranjie-bowa-buroonyu",
+    "name": "ブーランジェ ボワ·ブローニュ",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "台東区",
+    "lat": 35.710101,
+    "lng": 139.790262,
+    "status": "open",
+    "airedDates": [
+      "2023-10-24"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都台東区西浅草１丁目２−２",
+    "note": ""
+  },
+  {
+    "slug": "chuukaryouri-gankawa-gansen",
+    "name": "中華料理 雁川(がんせん)",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "千代田区",
+    "lat": 35.700962,
+    "lng": 139.770875,
+    "status": "open",
+    "airedDates": [
+      "2024-03-19"
+    ],
+    "signature": "牛すじチャーハンが 美味しい！",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "東京都千代田区外神田３丁目１０−１０ 白銀会館 Ｂ１Ｆ",
+    "note": ""
+  },
+  {
+    "slug": "yotsukadohanten",
+    "name": "四つ角飯店",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "立川市",
+    "lat": 35.698946,
+    "lng": 139.410024,
+    "status": "open",
+    "airedDates": [
+      "2024-03-26"
+    ],
+    "signature": "塊・角煮の店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都立川市曙町１丁目１６−５",
+    "note": ""
+  },
+  {
+    "slug": "touyouchoushichirinie",
+    "name": "東陽町七厘家",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "江東区",
+    "lat": 35.670366,
+    "lng": 139.819323,
+    "status": "open",
+    "airedDates": [
+      "2024-07-02"
+    ],
+    "signature": "メニュー4000以上の 居酒屋さん",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都江東区東陽４丁目６−１４ トーカン東陽町マンション 2F",
+    "note": ""
+  },
+  {
+    "slug": "touyouchoushichirinie-shichirinya",
+    "name": "東陽町七厘家(しちりんや)",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "江東区",
+    "lat": 35.670366,
+    "lng": 139.819323,
+    "status": "open",
+    "airedDates": [
+      "2024-07-02"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都江東区東陽４丁目６−１４ トーカン東陽町マンション 2F",
+    "note": ""
+  },
+  {
+    "slug": "nomitokoro-sakabajuku",
+    "name": "呑み処 酒場塾",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "板橋区",
+    "lat": 35.786777,
+    "lng": 139.675551,
+    "status": "open",
+    "airedDates": [
+      "2025-08-05"
+    ],
+    "signature": "お手頃ランチ",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都板橋区蓮根３丁目８−１ メトロード西台1番街 A-2",
+    "note": ""
+  },
+  {
+    "slug": "junteuchichiudon-masuya",
+    "name": "純手打ちうどん ますや",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "東村",
+    "lat": 35.768268,
+    "lng": 139.471847,
+    "status": "open",
+    "airedDates": [
+      "2025-09-02"
+    ],
+    "signature": "94歳のうどん屋",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都東村山市久米川町４丁目３３−１０",
+    "note": ""
+  },
+  {
+    "slug": "ryoushiryouri-kue",
+    "name": "漁師料理 九絵",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "目黒区",
+    "lat": 35.608115,
+    "lng": 139.684739,
+    "status": "open",
+    "airedDates": [
+      "2025-09-16"
+    ],
+    "signature": "刺身とんかつ定食",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "東京都目黒区大岡山２丁目２−１",
+    "note": ""
+  },
+  {
+    "slug": "bimirabo",
+    "name": "美味ラボ",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "足立区",
+    "lat": 35.797992,
+    "lng": 139.808352,
+    "status": "open",
+    "airedDates": [
+      "2025-10-28"
+    ],
+    "signature": "メニュー3000種類",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都足立区保木間４丁目４８−１２",
+    "note": ""
+  },
+  {
+    "slug": "karaagetokoro-chouju",
+    "name": "からあげ処 長寿",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "町田市",
+    "lat": 35.580171,
+    "lng": 139.411213,
+    "status": "open",
+    "airedDates": [
+      "2025-11-04"
+    ],
+    "signature": "ランチ680円⁈",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都町田市忠生４丁目５−２０",
+    "note": ""
+  },
+  {
+    "slug": "daichan-motorikishinoomise",
+    "name": "大ちゃん 元力士のお店",
+    "prefecture": "tokyo",
+    "prefectureJa": "東京都",
+    "city": "足立区",
+    "lat": 35.799344,
+    "lng": 139.811054,
+    "status": "open",
+    "airedDates": [
+      "2026-02-17"
+    ],
+    "signature": "お通しでお腹いっぱい",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "東京都足立区花畑１丁目８−６ コーポ大沢 １０２",
+    "note": ""
+  },
+  {
+    "slug": "sugichan",
+    "name": "すぎちゃん",
+    "prefecture": "tottori",
+    "prefectureJa": "鳥取県",
+    "city": "倉吉市",
+    "lat": 35.454278,
+    "lng": 133.847076,
+    "status": "open",
+    "airedDates": [
+      "2022-08-02"
+    ],
+    "signature": "陽気な店主の サービスしすぎな店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "鳥取県倉吉市上井３１３",
+    "note": ""
+  },
+  {
+    "slug": "noboruryuuken",
+    "name": "昇龍軒",
+    "prefecture": "tottori",
+    "prefectureJa": "鳥取県",
+    "city": "八頭郡",
+    "lat": 35.413166,
+    "lng": 134.251854,
+    "status": "open",
+    "airedDates": [
+      "2022-08-02"
+    ],
+    "signature": "から揚げを素手で揚げる テイクアウト店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "鳥取県八頭郡八頭町郡家６６２",
+    "note": ""
+  },
+  {
+    "slug": "menyahiromaru",
+    "name": "麵屋ひろまる",
+    "prefecture": "toyama",
+    "prefectureJa": "富山県",
+    "city": "南砺市",
+    "lat": 36.570905,
+    "lng": 136.878244,
+    "status": "open",
+    "airedDates": [
+      "2022-11-29"
+    ],
+    "signature": "でかまるらーめん 900円",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "富山県南砺市遊部川原４６−１",
+    "note": ""
+  },
+  {
+    "slug": "okonomi-fukuchan",
+    "name": "お好み ふくちゃん",
+    "prefecture": "toyama",
+    "prefectureJa": "富山県",
+    "city": "富山市",
+    "lat": 36.633607,
+    "lng": 137.219298,
+    "status": "open",
+    "airedDates": [
+      "2022-12-27"
+    ],
+    "signature": "マヨたっぷりメニュー",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "富山県富山市若竹町６丁目６４",
+    "note": ""
+  },
+  {
+    "slug": "shunkousakebuta-hatsuhikari",
+    "name": "旬香酒豚 初光",
+    "prefecture": "toyama",
+    "prefectureJa": "富山県",
+    "city": "富山市",
+    "lat": 36.698394,
+    "lng": 137.171725,
+    "status": "open",
+    "airedDates": [
+      "2026-03-10"
+    ],
+    "signature": "拳サイズのから揚げ⁈",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "富山県富山市寺町２１４８",
+    "note": ""
+  },
+  {
+    "slug": "ra-men-himawari",
+    "name": "ら～麺 ひまわり",
+    "prefecture": "wakayama",
+    "prefectureJa": "和歌山県",
+    "city": "和歌山市",
+    "lat": 34.235557,
+    "lng": 135.178421,
+    "status": "open",
+    "airedDates": [
+      "2021-09-07"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "和歌山県和歌山市北新５丁目６３",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-juuhachibanya-ohakoya",
+    "name": "お食事処 十八番屋 (おはこや)",
+    "prefecture": "wakayama",
+    "prefectureJa": "和歌山県",
+    "city": "岩出市",
+    "lat": 34.272668,
+    "lng": 135.286844,
+    "status": "open",
+    "airedDates": [
+      "2026-04-14"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "和歌山県岩出市金池４２３−２ フロンティア21E 1.2",
+    "note": ""
+  },
+  {
+    "slug": "minshuku-shokudou-musashi",
+    "name": "民宿 食堂 武蔵",
+    "prefecture": "yamagata",
+    "prefectureJa": "山形県",
+    "city": "上山市",
+    "lat": 38.167946,
+    "lng": 140.291122,
+    "status": "open",
+    "airedDates": [
+      "2021-07-13"
+    ],
+    "signature": "パン付焼きそば100円全ての メニューが格安の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "山形県上山市弁天１丁目８−３０−１",
+    "note": ""
+  },
+  {
+    "slug": "sobatokoro-fukurou",
+    "name": "そば処 ふくろう",
+    "prefecture": "yamagata",
+    "prefectureJa": "山形県",
+    "city": "最上郡",
+    "lat": 38.818163,
+    "lng": 140.229249,
+    "status": "open",
+    "airedDates": [
+      "2021-11-09"
+    ],
+    "signature": "山盛り天ぷらのそば屋",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山形県最上郡鮭川村庭月１０３８",
+    "note": ""
+  },
+  {
+    "slug": "komatsumagurosenmonten",
+    "name": "小松鮪専門店",
+    "prefecture": "yamagata",
+    "prefectureJa": "山形県",
+    "city": "酒田市",
+    "lat": 38.914982,
+    "lng": 139.829989,
+    "status": "open",
+    "airedDates": [
+      "2022-01-18"
+    ],
+    "signature": "ドライアイスで登場 山ほこ丼",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山形県酒田市船場町２丁目５−５６",
+    "note": ""
+  },
+  {
+    "slug": "tanbomehe",
+    "name": "たんぼめへ",
+    "prefecture": "yamagata",
+    "prefectureJa": "山形県",
+    "city": "新庄市",
+    "lat": 38.771718,
+    "lng": 140.307423,
+    "status": "open",
+    "airedDates": [
+      "2022-02-08"
+    ],
+    "signature": "店主が整体してくれる 野菜大盛ラーメン",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "山形県新庄市五日町１２９０−２１",
+    "note": ""
+  },
+  {
+    "slug": "midorishokudou",
+    "name": "みどり食堂",
+    "prefecture": "yamagata",
+    "prefectureJa": "山形県",
+    "city": "鶴岡市",
+    "lat": 38.733031,
+    "lng": 139.809558,
+    "status": "open",
+    "airedDates": [
+      "2022-11-08"
+    ],
+    "signature": "とんからラーメン どれもデカ盛り！！",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "山形県鶴岡市みどり町１３−１８",
+    "note": ""
+  },
+  {
+    "slug": "menyajuukudezenove",
+    "name": "麺屋ジュークDEZENOVE",
+    "prefecture": "yamagata",
+    "prefectureJa": "山形県",
+    "city": "山形市",
+    "lat": 38.212151,
+    "lng": 140.262671,
+    "status": "open",
+    "airedDates": [
+      "2024-10-08"
+    ],
+    "signature": "半チャーハンが3合?",
+    "priceNote": "",
+    "genre": "ramen",
+    "genreJa": "ラーメン",
+    "address": "山形県山形市長谷堂３４９",
+    "note": ""
+  },
+  {
+    "slug": "tonkatsusanshuuya",
+    "name": "とんかつ三州屋",
+    "prefecture": "yamagata",
+    "prefectureJa": "山形県",
+    "city": "天童市",
+    "lat": 38.36506,
+    "lng": 140.384025,
+    "status": "open",
+    "airedDates": [
+      "2026-01-27"
+    ],
+    "signature": "キャベツ山脈すぎる",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "山形県天童市糠塚２丁目８−２８",
+    "note": ""
+  },
+  {
+    "slug": "tonkatsusanshuuya-2",
+    "name": "とんかつ三州屋",
+    "prefecture": "yamagata",
+    "prefectureJa": "山形県",
+    "city": "天童市",
+    "lat": 38.36506,
+    "lng": 140.384025,
+    "status": "open",
+    "airedDates": [
+      "2026-01-27"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "meat",
+    "genreJa": "肉料理",
+    "address": "山形県天童市糠塚２丁目８−２８",
+    "note": ""
+  },
+  {
+    "slug": "d-51-sakaida",
+    "name": "D-51 SAKAIDA",
+    "prefecture": "yamaguchi",
+    "prefectureJa": "山口県",
+    "city": "山口市",
+    "lat": 34.185574,
+    "lng": 131.488592,
+    "status": "open",
+    "airedDates": [
+      "2023-05-02"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山口県山口市古熊３丁目２−７２３−２",
+    "note": ""
+  },
+  {
+    "slug": "hiroppe",
+    "name": "ひろっぺ",
+    "prefecture": "yamaguchi",
+    "prefectureJa": "山口県",
+    "city": "長門市",
+    "lat": 34.388432,
+    "lng": 131.199094,
+    "status": "closed",
+    "airedDates": [
+      "2023-05-02"
+    ],
+    "signature": "ビックリ海鮮丼！ ※ D-51SAKAIDA ▼店主の行きつけで紹介された店 ※破れ傘 ※くいどうらく",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山口県長門市仙崎１１０４−１",
+    "note": ""
+  },
+  {
+    "slug": "shiragiku-shiragiku",
+    "name": "白菊(しらぎく)",
+    "prefecture": "yamaguchi",
+    "prefectureJa": "山口県",
+    "city": "長門市",
+    "lat": 34.39151,
+    "lng": 131.200445,
+    "status": "open",
+    "airedDates": [
+      "2023-05-02"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山口県長門市仙崎南町４２９５−８",
+    "note": ""
+  },
+  {
+    "slug": "shokudouonetto",
+    "name": "食堂オネット",
+    "prefecture": "yamaguchi",
+    "prefectureJa": "山口県",
+    "city": "下関市",
+    "lat": 33.957513,
+    "lng": 130.944098,
+    "status": "open",
+    "airedDates": [
+      "2025-08-19"
+    ],
+    "signature": "150円のかけうどん",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "山口県下関市中之町１−１６ 唐戸はれて横丁 19号",
+    "note": ""
+  },
+  {
+    "slug": "oshokujitokoro-misawa",
+    "name": "お食事処 美沢",
+    "prefecture": "yamaguchi",
+    "prefectureJa": "山口県",
+    "city": "下松市",
+    "lat": 34.033171,
+    "lng": 131.897348,
+    "status": "open",
+    "airedDates": [
+      "2025-10-14"
+    ],
+    "signature": "お値段以上のボリューム",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "山口県下松市山田６８−２",
+    "note": ""
+  },
+  {
+    "slug": "doraibuin-inunaki",
+    "name": "ドライブイン 犬鳴",
+    "prefecture": "yamaguchi",
+    "prefectureJa": "山口県",
+    "city": "下関市",
+    "lat": 34.203057,
+    "lng": 130.93204,
+    "status": "open",
+    "airedDates": [
+      "2025-11-25"
+    ],
+    "signature": "待たせてごめんね倍増",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山口県下関市豊浦町大字宇賀７００８−１",
+    "note": ""
+  },
+  {
+    "slug": "himawarishijou",
+    "name": "ひまわり市場",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "北杜市",
+    "lat": 35.861415,
+    "lng": 138.381334,
+    "status": "open",
+    "airedDates": [
+      "2021-11-02"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県北杜市大泉町谷戸２００８",
+    "note": ""
+  },
+  {
+    "slug": "himawarishijou-2",
+    "name": "ひまわり市場",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "北杜市",
+    "lat": 35.861415,
+    "lng": 138.381334,
+    "status": "open",
+    "airedDates": [
+      "2021-11-02"
+    ],
+    "signature": "歴史的メンチカツ ポップがすごいスーパー",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県北杜市大泉町谷戸２００８",
+    "note": ""
+  },
+  {
+    "slug": "chuukagohan-kanzashi",
+    "name": "中華ごはん かんざし",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "甲府市",
+    "lat": 35.658645,
+    "lng": 138.553919,
+    "status": "open",
+    "airedDates": [
+      "2022-10-04"
+    ],
+    "signature": "本格中華が690円",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県甲府市上石田１丁目８−１",
+    "note": ""
+  },
+  {
+    "slug": "taishuukyoshoku-shigi-shinki",
+    "name": "大衆居食 信貴(しんき)",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "甲府市",
+    "lat": 35.653624,
+    "lng": 138.543113,
+    "status": "open",
+    "airedDates": [
+      "2023-04-18"
+    ],
+    "signature": "ワイルドな大盛りライス",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県甲府市徳行１丁目１１−５",
+    "note": ""
+  },
+  {
+    "slug": "kagahonten",
+    "name": "加賀本店",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "甲府市",
+    "lat": 35.622789,
+    "lng": 138.565559,
+    "status": "open",
+    "airedDates": [
+      "2023-07-18"
+    ],
+    "signature": "予約必須の店主",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県甲府市大里町２１５４−１１７",
+    "note": ""
+  },
+  {
+    "slug": "teishokuya-mimatsu",
+    "name": "定食屋 三松",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "甲府市",
+    "lat": 35.675753,
+    "lng": 138.548507,
+    "status": "open",
+    "airedDates": [
+      "2023-09-26"
+    ],
+    "signature": "増し盛りメニューがすごい",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "山梨県甲府市富士見２丁目８−１５",
+    "note": ""
+  },
+  {
+    "slug": "meshitokoroyoshizawa",
+    "name": "めし処よしざわ",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "南都留郡",
+    "lat": 35.424406,
+    "lng": 138.844848,
+    "status": "open",
+    "airedDates": [
+      "2024-05-07"
+    ],
+    "signature": "おかず100円の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "山梨県南都留郡山中湖村山中７２７−２",
+    "note": ""
+  },
+  {
+    "slug": "mikekototokoro-yoshizawa",
+    "name": "御食事処 よしざわ",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "南都留郡",
+    "lat": 35.424406,
+    "lng": 138.844848,
+    "status": "open",
+    "airedDates": [
+      "2024-05-07"
+    ],
+    "signature": "おかず100円の店",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "山梨県南都留郡山中湖村山中７２７−２",
+    "note": ""
+  },
+  {
+    "slug": "kourakuhonten",
+    "name": "幸楽本店",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "甲府市",
+    "lat": 35.627873,
+    "lng": 138.559224,
+    "status": "open",
+    "airedDates": [
+      "2024-09-18"
+    ],
+    "signature": "元プロボクサーの デカ盛り店",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県甲府市後屋町６６８−２",
+    "note": "支店があるが同じメニューかは要確認"
+  },
+  {
+    "slug": "kateiryourikitchinsora",
+    "name": "家庭料理キッチンそら",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "甲府市",
+    "lat": 35.657711,
+    "lng": 138.595184,
+    "status": "open",
+    "airedDates": [
+      "2024-10-29"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県甲府市善光寺１丁目２２−１",
+    "note": ""
+  },
+  {
+    "slug": "hanafujishokudou",
+    "name": "花藤食堂",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "甲州市",
+    "lat": 35.719542,
+    "lng": 138.745006,
+    "status": "open",
+    "airedDates": [
+      "2025-05-20"
+    ],
+    "signature": "半端ないデカ盛り",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "山梨県甲州市塩山上粟生野１１０１",
+    "note": ""
+  },
+  {
+    "slug": "houtoufudou-kawaguchikokitamotomise",
+    "name": "ほうとう不動 河口湖北本店",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "南都留郡",
+    "lat": 35.522678,
+    "lng": 138.773802,
+    "status": "open",
+    "airedDates": [
+      "2025-12-30"
+    ],
+    "signature": "",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県南都留郡富士河口湖町河口７０７",
+    "note": ""
+  },
+  {
+    "slug": "houtoufudou-kawaguchikokitamotomise-2",
+    "name": "ほうとう不動 河口湖北本店",
+    "prefecture": "yamanashi",
+    "prefectureJa": "山梨県",
+    "city": "南都留郡",
+    "lat": 35.522678,
+    "lng": 138.773802,
+    "status": "open",
+    "airedDates": [
+      "2026-01-27"
+    ],
+    "signature": "熱々で運ばれてくる",
+    "priceNote": "",
+    "genre": "other",
+    "genreJa": "その他",
+    "address": "山梨県南都留郡富士河口湖町河口７０７",
+    "note": "他支店でも同様のメニューを提供しているかは要調査"
   }
 ]
