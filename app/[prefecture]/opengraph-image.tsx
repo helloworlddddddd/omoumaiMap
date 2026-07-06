@@ -88,7 +88,7 @@ export default async function OgImage({
           {prefJa}
         </div>
         <div style={{ fontSize: 32, color: "#aaa", fontWeight: 700 }}>
-          掲載店舗数 {count}店
+          {`掲載店舗数 ${count}店`}
         </div>
       </div>
     ),
