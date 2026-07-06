@@ -45,6 +45,13 @@ export default function RootLayout({
       lang="ja"
       className={`${notoSansJp.variable} h-full antialiased`}
     >
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3306040727752702"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="min-h-full flex flex-col bg-orange-50/40 text-gray-900">
         <a href="#main-content" className="skip-link">
           メインコンテンツへスキップ
