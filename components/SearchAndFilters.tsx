@@ -32,7 +32,7 @@ export function SearchAndFilters() {
             onChange={(e) => setQuery(e.target.value)}
             placeholder="店名・都道府県・市町村で検索"
             aria-label="検索"
-            className="w-full h-11 pl-10 pr-3 rounded-full border border-orange-200 bg-white text-[15px] text-gray-800 placeholder:text-gray-400 focus:outline-none focus:border-orange-400 focus:ring-2 focus:ring-orange-100"
+            className="w-full h-11 pl-10 pr-3 rounded-full border border-orange-200 bg-white text-base text-gray-800 placeholder:text-gray-400 focus:outline-none focus:border-orange-400 focus:ring-2 focus:ring-orange-100"
           />
           <span
             aria-hidden
