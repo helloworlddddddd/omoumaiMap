@@ -9,7 +9,7 @@ import {
   type ReactNode,
 } from "react";
 import type { Shop, ShopGenre } from "@/types/shop";
-import { filterShops, type ViewportBounds } from "@/lib/filter";
+import { filterShops, type SortOrder, type ViewportBounds } from "@/lib/filter";
 
 interface ExplorerContextValue {
   allShops: Shop[];
@@ -21,6 +21,12 @@ interface ExplorerContextValue {
   genres: ReadonlySet<ShopGenre>;
   toggleGenre: (g: ShopGenre) => void;
   clearGenres: () => void;
+
+  prefecture: string | null;
+  setPrefecture: (p: string | null) => void;
+
+  sortOrder: SortOrder;
+  setSortOrder: (o: SortOrder) => void;
 
   showClosed: boolean;
   setShowClosed: (v: boolean) => void;
@@ -52,6 +58,8 @@ export function ExplorerProvider({
 }) {
   const [query, setQuery] = useState("");
   const [genres, setGenres] = useState<ReadonlySet<ShopGenre>>(new Set());
+  const [prefecture, setPrefecture] = useState<string | null>(null);
+  const [sortOrder, setSortOrder] = useState<SortOrder>("aired-desc");
   const [showClosed, setShowClosed] = useState(false);
   const [hoveredSlug, setHoveredSlug] = useState<string | null>(null);
   const [selectedSlug, setSelectedSlug] = useState<string | null>(null);
@@ -85,10 +93,12 @@ export function ExplorerProvider({
       filterShops(allShops, {
         query,
         genres,
+        prefecture,
         showClosed,
         viewportBounds: appliedViewportBounds,
+        sortOrder,
       }),
-    [allShops, query, genres, showClosed, appliedViewportBounds],
+    [allShops, query, genres, prefecture, showClosed, appliedViewportBounds, sortOrder],
   );
 
   const value: ExplorerContextValue = {
@@ -99,6 +109,10 @@ export function ExplorerProvider({
     genres,
     toggleGenre,
     clearGenres,
+    prefecture,
+    setPrefecture,
+    sortOrder,
+    setSortOrder,
     showClosed,
     setShowClosed,
     hoveredSlug,

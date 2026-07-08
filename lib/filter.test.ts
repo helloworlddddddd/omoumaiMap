@@ -20,7 +20,13 @@ const base: Shop = {
   note: "",
 };
 
-const opts = { genres: new Set<Shop["genre"]>(), showClosed: false, viewportBounds: null };
+const opts = {
+  genres: new Set<Shop["genre"]>(),
+  prefecture: null,
+  showClosed: false,
+  viewportBounds: null,
+  sortOrder: "aired-desc" as const,
+};
 
 describe("filterShops — かな/カナ正規化", () => {
   it("ひらがなで検索してカタカナ名物にヒット", () => {

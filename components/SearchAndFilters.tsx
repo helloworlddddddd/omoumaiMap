@@ -1,7 +1,10 @@
 "use client";
 
+import { useMemo } from "react";
 import { useExplorer } from "./ExplorerProvider";
+import { getAllPrefectures } from "@/lib/shops";
 import type { ShopGenre } from "@/types/shop";
+import type { SortOrder } from "@/lib/filter";
 
 const GENRES: { key: ShopGenre; label: string }[] = [
   { key: "ramen", label: "ラーメン" },
@@ -10,16 +13,32 @@ const GENRES: { key: ShopGenre; label: string }[] = [
   { key: "other", label: "その他" },
 ];
 
+const SORT_OPTIONS: { key: SortOrder; label: string }[] = [
+  { key: "aired-desc", label: "放送日順（最新）" },
+  { key: "aired-asc", label: "放送日順（古い順）" },
+  { key: "kana", label: "店名（五十音）" },
+];
+
 export function SearchAndFilters() {
   const {
     query,
     setQuery,
     genres,
     toggleGenre,
+    prefecture,
+    setPrefecture,
+    sortOrder,
+    setSortOrder,
     showClosed,
     setShowClosed,
     filteredShops,
   } = useExplorer();
+
+  const prefectures = useMemo(
+    () =>
+      getAllPrefectures().sort((a, b) => a.ja.localeCompare(b.ja, "ja")),
+    [],
+  );
 
   return (
     <div className="w-full bg-white/95 backdrop-blur border-b border-orange-100 shadow-sm">
@@ -78,8 +97,43 @@ export function SearchAndFilters() {
           </label>
         </div>
 
-        <div className="text-xs text-gray-500 pt-0.5">
-          {filteredShops.length}件表示
+        <div className="flex flex-wrap items-center gap-2">
+          <label className="inline-flex items-center gap-1.5 text-xs text-gray-500">
+            都道府県
+            <select
+              value={prefecture ?? ""}
+              onChange={(e) => setPrefecture(e.target.value || null)}
+              aria-label="都道府県で絞り込み"
+              className="h-9 pl-2.5 pr-7 rounded-md border border-gray-200 bg-white text-sm text-gray-800 focus:outline-none focus:border-orange-400 focus:ring-2 focus:ring-orange-100"
+            >
+              <option value="">すべて</option>
+              {prefectures.map((p) => (
+                <option key={p.key} value={p.key}>
+                  {p.ja}（{p.count}）
+                </option>
+              ))}
+            </select>
+          </label>
+
+          <label className="inline-flex items-center gap-1.5 text-xs text-gray-500">
+            並び順
+            <select
+              value={sortOrder}
+              onChange={(e) => setSortOrder(e.target.value as SortOrder)}
+              aria-label="並び順"
+              className="h-9 pl-2.5 pr-7 rounded-md border border-gray-200 bg-white text-sm text-gray-800 focus:outline-none focus:border-orange-400 focus:ring-2 focus:ring-orange-100"
+            >
+              {SORT_OPTIONS.map((o) => (
+                <option key={o.key} value={o.key}>
+                  {o.label}
+                </option>
+              ))}
+            </select>
+          </label>
+
+          <div className="ml-auto text-xs text-gray-500">
+            {filteredShops.length}件表示
+          </div>
         </div>
       </div>
     </div>
