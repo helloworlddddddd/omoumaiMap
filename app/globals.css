@@ -47,3 +47,26 @@ body {
   padding: 8px 10px !important;
   font-family: inherit !important;
 }
+
+/* Geolocate ボタンの下に「現在地」ラベルを常時表示（誤解防止） */
+.maplibregl-ctrl-geolocate {
+  position: relative;
+  overflow: visible !important;
+}
+.maplibregl-ctrl-geolocate::after {
+  content: "現在地";
+  position: absolute;
+  top: calc(100% + 2px);
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 10px;
+  line-height: 1;
+  color: #4b5563;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 2px 5px;
+  border-radius: 3px;
+  border: 1px solid #e5e7eb;
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}

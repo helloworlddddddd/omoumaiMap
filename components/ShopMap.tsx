@@ -103,6 +103,13 @@ export default function ShopMap({
         onMoveEnd={handleMoveEnd}
         onClick={() => setSelectedSlug(null)}
         style={{ width: "100%", height: "100%" }}
+        locale={{
+          "GeolocateControl.FindMyLocation": "現在地を表示",
+          "GeolocateControl.LocationNotAvailable": "現在地を取得できませんでした",
+          "NavigationControl.ZoomIn": "拡大",
+          "NavigationControl.ZoomOut": "縮小",
+          "NavigationControl.ResetBearing": "北を上に戻す",
+        }}
       >
         <NavigationControl position="top-right" showCompass={false} />
         <GeolocateControl
