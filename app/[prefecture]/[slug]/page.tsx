@@ -1,13 +1,19 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getAllShops, getShopBySlug, getShopsByPrefecture } from "@/lib/shops";
+import { getAllShops, getShopsByPrefecture, getShopWithExtended } from "@/lib/shops";
 import { loadShopArticle } from "@/lib/content";
 import { buildRestaurantJsonLd, JsonLd } from "@/lib/jsonLd";
 import { ShopHeaderCard } from "@/components/ShopHeaderCard";
 import { RelatedShops } from "@/components/RelatedShops";
 import { AdSlot } from "@/components/AdSlot";
 import SoloShopMapLazy from "@/components/SoloShopMapLazy";
+import { EpisodeSection } from "@/components/EpisodeSection";
+import { FeaturedMenuSection } from "@/components/FeaturedMenuSection";
+import { BusinessInfoSection } from "@/components/BusinessInfoSection";
+import { AccessSection } from "@/components/AccessSection";
+import { ExternalLinksSection } from "@/components/ExternalLinksSection";
+import { NearbyShopsSection } from "@/components/NearbyShopsSection";
 
 export const dynamicParams = false;
 
@@ -24,7 +30,7 @@ export async function generateMetadata({
   params: Promise<{ prefecture: string; slug: string }>;
 }): Promise<Metadata> {
   const { prefecture, slug } = await params;
-  const shop = getShopBySlug(prefecture, slug);
+  const shop = getShopWithExtended(prefecture, slug);
   if (!shop) return {};
   const title = `${shop.name}|オモウマい店で紹介された${shop.prefectureJa}${shop.city}の店`;
   const description = `${shop.name}(${shop.prefectureJa}${shop.city})の名物は「${shop.signature}」。放送日・営業ステータス・地図・アクセス方法をまとめました。`;
@@ -49,10 +55,12 @@ export default async function ShopPage({
   params: Promise<{ prefecture: string; slug: string }>;
 }) {
   const { prefecture, slug } = await params;
-  const shop = getShopBySlug(prefecture, slug);
-  if (!shop) notFound();
+  const shopWithExt = getShopWithExtended(prefecture, slug);
+  if (!shopWithExt) notFound();
+  const { extended, ...shop } = shopWithExt;
 
   const article = await loadShopArticle(slug);
+  const allShops = getAllShops();
   const related = getShopsByPrefecture(prefecture)
     .filter((s) => s.slug !== slug)
     .slice(0, 5);
@@ -76,6 +84,28 @@ export default async function ShopPage({
       </nav>
 
       <ShopHeaderCard shop={shop} />
+
+      {extended && (
+        <>
+          <EpisodeSection extended={extended} />
+          {extended.featuredMenu && extended.featuredMenu.length > 0 && (
+            <FeaturedMenuSection menu={extended.featuredMenu} />
+          )}
+          <BusinessInfoSection
+            businessHours={extended.businessHours}
+            closedDays={extended.closedDays}
+            phoneNumber={extended.phoneNumber}
+            crowdedTime={extended.crowdedTime}
+            additionalInfo={extended.additionalInfo}
+            infoAsOf={extended.infoAsOf}
+            status={shop.status}
+          />
+          <AccessSection
+            nearestStation={extended.nearestStation}
+            parkingInfo={extended.parkingInfo}
+          />
+        </>
+      )}
 
       <AdSlot slotId={`shop-${shop.slug}-top`} format="leaderboard" />
 
@@ -121,6 +151,8 @@ export default async function ShopPage({
 
       <AdSlot slotId={`shop-${shop.slug}-bottom`} format="leaderboard" />
 
+      <ExternalLinksSection shopName={shop.name} />
+      <NearbyShopsSection current={shop} allShops={allShops} />
       <RelatedShops shops={related} prefectureJa={shop.prefectureJa} />
 
       <JsonLd data={jsonLd} />
