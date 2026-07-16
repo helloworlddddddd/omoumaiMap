@@ -2677,6 +2677,25 @@
     "note": ""
   },
   {
+    "slug": "munch-shokudou",
+    "name": "満家食堂",
+    "prefecture": "iwate",
+    "prefectureJa": "岩手県",
+    "city": "一関市",
+    "lat": 38.8300414,
+    "lng": 141.1824224,
+    "status": "open",
+    "airedDates": [
+      "2026-07-21"
+    ],
+    "signature": "ご飯おかわり10杯無料！ 器からはみ出す肉ボリュームの町食堂",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "岩手県一関市花泉町涌津道下21-14",
+    "note": ""
+  },
+  {
     "slug": "takeshichanshokudou",
     "name": "健ちゃん食堂",
     "prefecture": "kagawa",
@@ -5537,6 +5556,25 @@
     "genre": "other",
     "genreJa": "その他",
     "address": "埼玉県入間市宮前町１２−１１",
+    "note": ""
+  },
+  {
+    "slug": "shokudou-tanaka",
+    "name": "食堂たなか",
+    "prefecture": "saitama",
+    "prefectureJa": "埼玉県",
+    "city": "熊谷市",
+    "lat": 36.1107185,
+    "lng": 139.3106002,
+    "status": "open",
+    "airedDates": [
+      "2026-07-14"
+    ],
+    "signature": "生卵・たまごスープ食べ放題！ 養鶏場が営む食堂の卵かけご飯200円",
+    "priceNote": "",
+    "genre": "teishoku",
+    "genreJa": "定食",
+    "address": "埼玉県熊谷市板井1604",
     "note": ""
   },
   {
