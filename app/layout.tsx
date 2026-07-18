@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Noto_Sans_JP } from "next/font/google";
 import Script from "next/script";
+import { SiteFooter } from "@/components/SiteFooter";
 import "./globals.css";
 
 const notoSansJp = Noto_Sans_JP({
@@ -57,6 +58,7 @@ export default function RootLayout({
           メインコンテンツへスキップ
         </a>
         <div id="main-content">{children}</div>
+        <SiteFooter />
       </body>
     </html>
   );
