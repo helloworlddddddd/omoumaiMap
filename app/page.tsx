@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { ExplorerProvider } from "@/components/ExplorerProvider";
 import { ExplorerLayout } from "@/components/ExplorerLayout";
+import { AboutFaqSection } from "@/components/AboutFaqSection";
 import { getAllShops } from "@/lib/shops";
 
 export const metadata: Metadata = {
@@ -22,8 +23,11 @@ export const metadata: Metadata = {
 export default function HomePage() {
   const shops = getAllShops();
   return (
-    <ExplorerProvider allShops={shops}>
-      <ExplorerLayout />
-    </ExplorerProvider>
+    <>
+      <ExplorerProvider allShops={shops}>
+        <ExplorerLayout />
+      </ExplorerProvider>
+      <AboutFaqSection shopCount={shops.length} />
+    </>
   );
 }
