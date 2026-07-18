@@ -34,6 +34,7 @@ export async function generateMetadata({
   if (!shop) return {};
   const title = `${shop.name}|オモウマい店で紹介された${shop.prefectureJa}${shop.city}の店`;
   const description = `${shop.name}(${shop.prefectureJa}${shop.city})の名物は「${shop.signature}」。放送日・営業ステータス・地図・アクセス方法をまとめました。`;
+  const isThin = !shop.extended;
   return {
     title,
     description,
@@ -46,6 +47,12 @@ export async function generateMetadata({
     alternates: {
       canonical: `/${prefecture}/${slug}/`,
     },
+    ...(isThin && {
+      robots: {
+        index: false,
+        follow: true,
+      },
+    }),
   };
 }
 
